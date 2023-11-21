@@ -1,0 +1,1 @@
+java -Xms256m -Xmx6g -Dmode="importAll" -Dfilepath="D:\Litres\Catalog\books.xml" -Dcom.sun.xml.bind.v2.bytecode.ClassTailor.noOptimize=true -Dserver.port=8082 -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=9003,suspend=n -jar target\importer-1.0.1-SNAPSHOT.jar
