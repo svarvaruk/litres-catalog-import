@@ -1,0 +1,3998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litres-updates>
+	<art int_id="118915" added="2007-04-03 16:18:00" price="59.90" cover="jpg" last_release="2011-10-13 12:56:26" on_sale="1" file_id="3804925" chars="791605" type="0" file="3804925" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_social</genre>
+					<genre>sf_history</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Армагед-дом</book-title>
+					<annotation>
+						<p>Мир на пороховой бочке, и несколько раз за век эта бочка взрывается Апокалипсисом. Из моря выходят чудовища, звезда Полынь опрокидывается в реки, превращая воду в кровь, ангел трубит в трубу над пепелищами. Лишь загадочные Врата сумеют спасти живых, чтобы люди могли после катастрофы отсроить жизнь заново – если, конечно, успеют войти в эти Врата. Мир привык, потому что привыкают ко всему. Лгут депутаты, мудрствуют спецслужбы, защищаются диссертации, рождаются дети. И конечно же, выдаются спецпропуска во Врата. Все как всегда, все как везде; регулярный, обыденный, ужасный Армагеддон, ставший для его обитателей Армагед-домом.</p>
+						<p>Жизнь главной героини – тому порука.</p>
+						<p>И тем не менее…</p>
+					</annotation>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Roland</first-name>
+						<last-name/>
+					</author>
+					<program-used>FB Editor v2.0</program-used>
+					<date value="2008-11-28">28 November 2008</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=118915</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>30783516-71df-4d51-84c5-ceb7e938fa87</id>
+				</document-info>
+				<publish-info>
+					<book-name>Армагед-дом</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2005</year>
+					<isbn>5-699-14200-2</isbn>
+					<sequence name="Триумвират"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="17644"/>
+		<arts_relations>
+			<art_relation rel_art="30076013" relation="8"/>
+			<art_relation rel_art="4578560" relation="4"/>
+			<art_relation rel_art="4578560" relation="3"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="118916" added="2007-04-03 16:18:04" price="59.90" cover="jpg" last_release="2011-10-14 19:38:55" on_sale="1" file_id="3809145" chars="691436" type="0" file="3809145" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Скрут</book-title>
+					<annotation>
+						<p>В довольно-таки мрачном фэнтезийном мире зарождается довольно-таки светлая и романтическая любовь… И, возможно, они жили бы долго и счастливо и умерли в один день – если бы в ветвях зловещего леса не жил, ожидая своего часа, могущественный и безжалостный, с довольно-таки странными представлениями о справедливости – Скрут…</p>
+					</annotation>
+					<date value="1997-01-01">1997</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2003-10-25">2003-10-25</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=118916</src-url>
+					<src-url>http://www.aldebaran.ru/</src-url>
+					<id>0fe2dba8-1890-44f1-96e6-544611df0f0a</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<year>2003</year>
+					<sequence number="00" name="Нить времен"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="5614"/>
+		<arts_relations/>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="118918" added="2007-04-03 16:18:12" price="59.90" cover="jpg" last_release="2015-01-12 23:16:25" on_sale="1" file_id="11612525" chars="584996" type="0" file="11612525" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Варан</book-title>
+					<annotation>
+						<p>Ты можешь летать на птице или нырять на оседланном змее, дружить с магами и бороться с чудовищами – но какие бы чудеса ни творились вокруг, тебе обязательно захочется узнать больше. Заглянуть за край привычного. И тогда придется, бросив дом, бродить из края в край необъятной Империи, искать единственного человека – того, кто разжигает огонь в очаге, кто знает, куда уходят люди после смерти…</p>
+					</annotation>
+					<keywords>иные миры,квест,героическое фэнтези,становление героя</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="1" name="Бродячая Искра"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Roland</first-name>
+						<last-name/>
+					</author>
+					<program-used>FB Editor v2.0, FictionBook Editor Release 2.6.7</program-used>
+					<date value="2008-11-28">28 November 2008</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=118918</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>f1708ec9-c6b6-4dd3-95dc-87f60b4a9c5a</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Варан</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2007</year>
+					<isbn>978-5-699-23128-7</isbn>
+					<sequence name="Стрела Времени"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="20852"/>
+		<arts_relations>
+			<art_relation rel_art="29838255" relation="8"/>
+			<art_relation rel_art="4578554" relation="4"/>
+			<art_relation rel_art="4578554" relation="3"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119400" added="2007-04-03 17:14:16" price="99.00" cover="jpg" last_release="2021-12-07 00:11:20" on_sale="1" file_id="91036593" chars="83098" type="0" file="91036593" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Десант на Счастье</book-title>
+					<annotation>
+						<p>История одного батальона, отслеженная писателем, приводит последнего к ошеломляющему открытию: в закрытых на карантин секторах пространства возможно уцелели его предки. Он собирает команду добровольцев, чтобы попытаться отыскать консервационный модуль, способный поддерживать жизнь раненых бойцов на протяжении сотен лет.</p>
+					</annotation>
+					<keywords>повести,искусственный интеллект,роботы,спасение мира,квест,далёкое будущее</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="20"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-02">2006-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119400</src-url>
+					<id>3ab28733-adf3-4bb1-b23d-231b80039f02</id>
+					<version>1.1</version>
+					<history>
+						<p>v. 1.1 – Black Jack – правка форматирования fb2 документа</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14850"/>
+		<arts_relations>
+			<art_relation rel_art="48483763" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008982</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119401" added="2007-04-03 17:14:17" price="99.00" cover="jpg" last_release="2021-12-07 00:05:45" on_sale="1" file_id="91036548" chars="94668" type="0" file="91036548" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Повторная колонизация</book-title>
+					<annotation>
+						<p>Долгие годы последствия Галактической войны будут препятствовать заселению планет, где сохранились автоматические системы планетарной обороны. На деактивацию подобных миров бросают смертников, из числа пленных офицеров Земного Альянса.</p>
+					</annotation>
+					<keywords>роботы,далёкое будущее,философская фантастика</keywords>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="14"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-02">2006-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119401</src-url>
+					<id>c24a55cd-66b0-479c-b98f-21e67f38bd72</id>
+					<version>1.1</version>
+					<history>
+						<p>v. 1.1 – Black Jack – правка форматирования книги</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="20790"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000026332</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119402" added="2007-04-03 17:14:17" price="99.00" cover="jpg" last_release="2021-12-07 00:07:18" on_sale="1" file_id="91036553" chars="51716" type="0" file="91036553" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Виртуалка</book-title>
+					<annotation>
+						<p>Юноши и девушки посвятившие себя фантомным реальностям, мало заботятся о настоящем. Однако наступает момент, когда их навыки, полученные на виртуальных симуляторах, могут спасти тысячи жизней.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,пираты,звёздный ковчег,становление героя,далёкое будущее,рассказы</keywords>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="15" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-02">2006-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119402</src-url>
+					<id>503917ed-cfea-48cb-a187-94151f8421ab</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="16335"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119403" added="2007-04-03 17:14:18" price="139.00" cover="jpg" last_release="2016-08-10 05:28:25" on_sale="1" file_id="8807779" chars="63179" type="0" file="8807779" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>short_story</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Свидание с Богом</book-title>
+					<annotation>
+						<p>Война закончилась. Саморазвивающиеся кибернетические системы остаются брошенными на произвол судьбы. В глубинах космоса дрейфует разрушенная станция, где ведут борьбу за существование пережившие войну машины. Кто является для них высшим существом и способны ли кибернетические рассудки помнить о своих создателях?</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,далёкое будущее</keywords>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="21" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>OCR Альдебаран</nickname>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-02">2006-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119403</src-url>
+					<id>378e5cd8-6d19-4317-b9dc-d42aa9b637f9</id>
+					<version>1.1</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="16680"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008981</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119404" added="2007-04-03 17:14:19" price="159.00" cover="jpg" last_release="2019-07-20 10:09:11" on_sale="1" file_id="50658044" chars="246555" type="0" file="50658044" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Роза для киборга</book-title>
+					<annotation>
+						<p>Могущественная промышленная империя «Галактических Киберсистем» достигла пика своего развития, когда все самое передовое уже создано, а новые технологии лежат за сомнительной гранью морально фола. Что предпримет могучая корпорация, остановившаяся у незримой черты, особенно после трагедии на планете Флиред, когда многотысячная партия биологических роботов внезапно вышла из-под контроля людей?</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,клонирование,мутанты,далёкое будущее,клоны</keywords>
+					<date value="1997-01-01">1997</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="23" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools, FictionBook Editor Release 2.6.6</program-used>
+					<date value="2006-03-02">2006-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119404</src-url>
+					<id>566af715-18b9-4166-b8de-1bf5cf727605</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14310"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008980</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119405" added="2007-04-03 17:14:22" price="159.00" cover="jpg" last_release="2014-01-16 14:49:46" on_sale="1" file_id="8807836" chars="420017" type="0" file="8807836" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Потерянный рай</book-title>
+					<annotation>
+						<p>После краха корпорации «Галактические Киберсистемы» ее единственный наследник, волею судьбы заключенный в тело киборга, решает бросить все и уйти в дальний поиск. Однако неизведанный космос далеко не лучшее место, чтобы скрыться от проблем. Планета, которая обещала стать раем для миллионов потенциальных колонистов, вдруг раскрывает истинную, ужасающую суть своей эволюции.</p>
+					</annotation>
+					<keywords>сверхспособности,искусственный интеллект,роботы,интриги,далёкое будущее</keywords>
+					<date value="1997-01-01">1997</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="24" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-08">2006-03-08</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119405</src-url>
+					<id>1cc7cbc5-0335-49b6-b85d-6ffc2cb463a6</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14310"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008979</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119406" added="2007-04-03 17:14:25" price="159.00" cover="jpg" last_release="2014-01-16 14:49:49" on_sale="1" file_id="8807839" chars="478632" type="0" file="8807839" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Галактический вихрь</book-title>
+					<annotation>
+						<p>Конфедерация Солнц, на протяжении тысячелетия объединявшая большинство миров Обитаемой Галактики, переживает кризис. Именно в этот сложный для человечества момент на исторической сцене внезапно появляется тень из прошлого, – искусственный интеллект, созданный три миллиона лет назад расой насекомоподобных существ, пробуждается от небытия вследствие боевых действий на скованном льдами спутнике планеты Эригон.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,интриги,спасение мира,клонирование,звёздный ковчег,ксенофантастика,умирающая Земля,мутанты,далёкое будущее,клоны</keywords>
+					<date value="1998-01-01">1998</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="25" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-08">2006-03-08</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119406</src-url>
+					<id>bd8c06a6-d6cb-463b-afef-da6187e52dcb</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="16695"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008978</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119407" added="2007-04-03 17:14:27" price="159.00" cover="jpg" last_release="2014-01-16 14:50:00" on_sale="1" file_id="8807842" chars="395624" type="0" file="8807842" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Деметра</book-title>
+					<annotation>
+						<p>Люди уже давно знают что три миллиона лет назад в космосе обитало три разумных расы, которых, как считалось, смела губительная миграция Предтеч. И вот внезапное открытие картографическим крейсером «Терра» потерянной колонии эпохи Великого Исхода опровергает утверждения историков. Часть цивилизации Инсектов уцелела и теперь их деградировавшие потомки ведут взаимоуничтожающую войну с людьми, вторично колонизировавшими их мир.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,интриги,далёкое будущее</keywords>
+					<date value="1998-01-01">1998</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="26" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-12">2006-03-12</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119407</src-url>
+					<id>60c59c56-df06-4c49-b829-10b6d2d70928</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14310"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008977</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119408" added="2007-04-03 17:14:31" price="159.00" cover="jpg" last_release="2014-01-16 14:51:57" on_sale="1" file_id="8807848" chars="555145" type="0" file="8807848" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Третья раса</book-title>
+					<annotation>
+						<p>Загадочный Рукав Пустоты – пространство без звезд, где шло титаническое противостояние между тремя цивилизациями прошлого и неразумными ордами Предтеч – древними формами космической жизни, преподносит людям новые загадки. Оказывается не только Инсекты сумели пережить вселенскую катастрофу.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,интриги,спасение мира,вторжение «чужих»,ксенофантастика,далёкое будущее</keywords>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="28" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-12">2006-03-12</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119408</src-url>
+					<id>000b7926-5223-4b91-af00-8fc55f5134cb</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="31005"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008976</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119409" added="2007-04-03 17:14:33" price="159.00" cover="jpg" last_release="2014-01-16 14:51:07" on_sale="1" file_id="8807845" chars="538001" type="0" file="8807845" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Транспорт до Везелвула</book-title>
+					<annotation>
+						<p>Корпоративная Окраина, живущая по своим законам, на протяжении сотен лет являлась пространством, подчиненным власти денег. Однако всему когда-то приходит конец. Закон «О правах разумных существ» при-ходит сюда вместе со сменой колониальной администрации. Однако корпорации Окраины не собираются сдавать свои позиции без боя, тем более, когда речь идет о сверхприбылях, получаемых от добычи синтетического наркотика, образующегося на токсичной свалке отходов, в которую превращена планета Везелвул.</p>
+					</annotation>
+					<keywords>сверхспособности,искусственный интеллект,роботы,спасение мира,ксенофантастика,мутанты,далёкое будущее,терраформирование</keywords>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="27" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-15">2006-03-15</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119409</src-url>
+					<id>4107400c-39f7-48af-ba10-b3acf0f0c5f5</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="11925"/>
+		<arts_relations>
+			<art_relation rel_art="57378248" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008966</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119411" added="2007-04-03 17:14:37" price="159.00" cover="jpg" last_release="2014-01-16 14:52:25" on_sale="1" file_id="8807851" chars="563634" type="0" file="8807851" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Туманность Ориона</book-title>
+					<annotation>
+						<p>Вадим Полуэктов капитан внешней разведки Земли по долгу службы был готов к любым неожиданностям. Однако он даже не подозревал в какую переделку попадет, выполняя задание начальства по исследованию древнего колониального транспорта. Полуэктов оказывается втянут в невероятную историю среди участников которой не только алчные и кровожадные фанатики с планеты Ганио, но и древний разум, когда-то породивший Предтеч, а вместе с ними, – нашу биологическую форму жизни.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,вторжение «чужих»,клонирование,мутанты,далёкое будущее,клоны</keywords>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="29" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools, FictionBook Editor Release 2.6</program-used>
+					<date value="2006-03-16">2006-03-16</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119411</src-url>
+					<id>db851fbf-40a4-41ca-988d-a67edf174367</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="16695"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008929</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119412" added="2007-04-03 17:14:38" price="139.00" cover="jpg" last_release="2021-12-07 15:26:21" on_sale="1" file_id="91045883" chars="168779" type="0" file="91045883" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Райвен</book-title>
+					<annotation>
+						<p>
+							<emphasis>
+								<strong>Авторская версия 2016 года.</strong>
+							</emphasis>
+						</p>
+						<p>3785 год. Загадочная Мать – кибернетическая система обезлюдевшего города-колонии планеты Деметра в попытке создать себе подобный разум, воспитывает среди прочих образчиков робототехники небольшую сферу, наполненную кристаллами. Однако, оказывается, что самый успешный плод ее экспериментов уже когда-то являлся мыслящим существом – шар лишь частица чего-то большего… Судьба складывается таким образом, что юная контрабандистка Бетриче Блейз, проникнув на Деметру, похищает зародыш искусственного интеллекта, еще не подозревая, что с этого момента ее жизнь станет совершенно другой.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,интриги,клонирование,далёкое будущее,клоны,сверхспособности</keywords>
+					<date value="2016-01-01">2016</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="30" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Александр</first-name>
+						<last-name>Умняков</last-name>
+						<nickname>shum29</nickname>
+						<email>au.shum@gmail.com</email>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.6</program-used>
+					<date value="2018-03-07">07 March 2018</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119412</src-url>
+					<src-ocr>Авторский текст</src-ocr>
+					<id>780cc07d-10d3-4f3c-ab05-899fa1172edf</id>
+					<version>1.0</version>
+					<history>
+						<p>1.0 – создание файла</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="12510"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119415" added="2007-04-03 17:14:41" price="159.00" cover="jpg" last_release="2021-12-07 15:34:23" on_sale="1" file_id="91045918" chars="556860" type="0" file="91045918" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Жизненное пространство. Книга 1. Борт 618</book-title>
+					<annotation>
+						<p>Неожиданный бой на далекой планете. Смертельное ранение. Последнее, что уловил угасающий взгляд лейтенанта Лизы Стриммер, была рука омерзительного существа, тянущегося к ее лицу. А дальше провал в памяти, длиною в два десятка лет. Она жива. Но кто воскресил ее? И почему вдруг этот неведомый «доброжелатель» начал на нее форменную охоту? Что за сила обосновалась на далеком Воргейзе, пытаясь вмешиваться в судьбы целых планет? На все эти вопросы придется отвечать именно ей.</p>
+					</annotation>
+					<keywords>искусственный интеллект,ксенофантастика,далёкое будущее,сверхспособности</keywords>
+					<date value="2001-01-01">2001</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="32" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-18">2006-03-18</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119415</src-url>
+					<src-ocr>Авторская версия</src-ocr>
+					<id>4c630b73-9ec3-45cf-9518-c8033f482fd7</id>
+					<version>1.0</version>
+					<history>
+						<p>v. 1.1 – Black Jack – правка форматирования fb2 документа</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="19080"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008964</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119416" added="2007-04-03 17:14:44" price="159.00" cover="jpg" last_release="2021-12-07 15:35:31" on_sale="1" file_id="91045938" chars="518250" type="0" file="91045938" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Жизненное пространство. Книга 2</book-title>
+					<annotation>
+						<p>Всегда находятся подонки, готовые продать Родину за тридцать сребреников. Но на этот раз неожиданное вторжение из глубин Вселенной поставило под вопрос само существование человечества. Кучка голубокожих маньяков, обезумевших от украденного ими бессмертия, уже обрекла на рабство и вырождение покоренные древние расы. Опаленное пламенем атомной бойни жизненное пространство, столь необходимое для выживания любого вида, может легко стать безжизненным. Но в любые времена найдутся люди, способные противостоять всеобщей вражде.</p>
+					</annotation>
+					<keywords>роботы,интриги,спасение мира,вторжение «чужих»,далёкое будущее</keywords>
+					<date value="2001-01-01">2001</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="33"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name>MCat78</last-name>
+						<nickname>MCat78</nickname>
+						<email>MCat78@ya.ru</email>
+					</author>
+					<program-used>FB Editor v2.0</program-used>
+					<date value="2008-09-02">02 September 2008</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119416</src-url>
+					<src-ocr>Текст предоставлен издательством «Эксмо»</src-ocr>
+					<id>ea3c06f0-9015-4b28-82be-fae74e496bab</id>
+					<version>2.1</version>
+					<history>
+						<p>v 2.1 – MCat78 – создание fb2-документа из издательского текста</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Жизненное пространство</book-name>
+					<publisher>Эксмо-Пресс</publisher>
+					<city>Москва</city>
+					<year>2002</year>
+					<isbn>5-04-010092-2</isbn>
+					<sequence name="Абсолютное оружие" number="0"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="16695"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008963</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119417" added="2007-04-03 17:14:49" price="159.00" cover="jpg" last_release="2014-01-16 14:56:25" on_sale="1" file_id="8807875" chars="534503" type="0" file="8807875" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Грань реальности</book-title>
+					<annotation>
+						<p>Попытка расы Харамминов разобщить человечество, привела к реанимации древнейшей сверхмашины Логриан – так называемого «Логриса». Вместе с пробуждением древних технологий для людей открылась перспектива виртуального бессмертия. Однако никто не мог с уверенностью сказать чем обернется «жизнь после смерти». Ответ на этот вопрос смог дать Кристофер Раули – первый человек, сумевший вернуться из Логриса.</p>
+					</annotation>
+					<keywords>искусственный интеллект,спасение мира,жизнь после смерти,бессмертие,обмен разумами,мутанты,становление героя,далёкое будущее,клоны</keywords>
+					<date value="2001-01-01">2001</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="37" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-18">2006-03-18</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119417</src-url>
+					<id>42edc632-9cfb-41f5-8181-5bcef3d7f14d</id>
+					<version>1.1</version>
+					<history>
+						<p>v. 1.1 – Black Jack – правка форматирования fb2 документа</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14310"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008961</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119418" added="2007-04-03 17:14:54" price="159.00" cover="jpg" last_release="2014-01-16 14:57:23" on_sale="1" file_id="8807881" chars="680340" type="0" file="8807881" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Сон разума</book-title>
+					<annotation>
+						<p>Трагическая смерть профессора Кречетова, автора теории строения гиперсферы, неожиданно и невероятно отзывается на судьбе его племянника. Отпуск лейтенанта космофлота Андрея Кречетова превращается сначала в расследование, а затем в экспедицию к центру загадочной аномалии космоса, куда не добирался еще ни один разведывательный корабль. Однако пункт прибытия лейтенанта оказался совсем не таким как он предполагал – восемь планет, позже названных «Ожерельем» обращались по орбите вокруг энергетического сгустка, и одна из них на поверку оказалась обитаемой.</p>
+					</annotation>
+					<keywords>роботы,звёздный ковчег,далёкое будущее</keywords>
+					<date value="2002-01-01">2002</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="38" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-04-16">2006-04-16</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119418</src-url>
+					<id>8bd5e89a-d9f0-40e6-801a-008f9b2c1199</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="14310"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008959</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119419" added="2007-04-03 17:14:56" price="159.00" cover="jpg" last_release="2018-03-07 11:10:10" on_sale="1" file_id="35113271" chars="419566" type="0" file="35113271" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Дабог. Авторская версия 2017 года</book-title>
+					<annotation>
+						<p>Минула эпоха Великого Исхода. Прошли столетия. Земля перенаселена, а судьба колонистов, отправившихся к звездам неизвестна. Попытка начать вторую волну экспансии приводит к шокирующему открытию: все доступные планеты в радиусе одного прыжка от Солнечной системы заселены в эпоху Исхода. Колонисты создали уникальные самобытные цивилизации, но это не имеет значения, когда речь идет о выживании миллиардов землян…</p>
+						<p>Основное время действия согласно хронологии «Истории Галактики» – 2607 год.</p>
+					</annotation>
+					<keywords>роботы,спасение мира,далёкое будущее</keywords>
+					<date value="2000-01-01">2017</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="4"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Александр</first-name>
+						<last-name>Умняков</last-name>
+						<nickname>shum29</nickname>
+						<email>au.shum@gmail.com</email>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.6</program-used>
+					<date value="2018-03-07">07 March 2018</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119419</src-url>
+					<src-ocr>Авторский текст</src-ocr>
+					<id>61379b9c-8956-4b17-9739-e3d986322099</id>
+					<version>1.0</version>
+					<history>
+						<p>1.0 – создание файла</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="33390"/>
+		<arts_relations>
+			<art_relation rel_art="36087951" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008995</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119421" added="2007-04-03 17:15:03" price="99.00" cover="jpg" last_release="2016-07-30 06:18:35" on_sale="1" file_id="11709209" chars="76591" type="0" file="11709209" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>narrative</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Возвращение Богов</book-title>
+					<annotation>
+						<p>2608 год.</p>
+						<p>Лейтенант космофлота Антон Вербицкий, принимает неравный бой с истребителями Альянса на орбитах безымянной планеты. Его корабль сбит, но, падая, он не подозревает, что не только сумеет выжить, но и столкнется с одной из трагических загадок прошлого, узнает о судьбе своих предков и встретится с удивительными последствиями их пребывания на планете.</p>
+					</annotation>
+					<keywords>мутанты,далёкое будущее</keywords>
+					<date value="1998-01-01">1998</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="6" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+					</author>
+					<author>
+						<first-name>Александр</first-name>
+						<middle-name>Владимирович</middle-name>
+						<last-name>Остриков</last-name>
+						<nickname>Green Men</nickname>
+					</author>
+					<program-used>htmlDocs2fb2, FictionBook Editor Release 2.6.6</program-used>
+					<date value="2014-10-30">30.10.2014</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119421</src-url>
+					<src-url>http://livadny.ru/</src-url>
+					<src-ocr>текст предоставлен автором</src-ocr>
+					<id>8bbdbc0a-d191-46b1-ba7e-c9d18b060fd7</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="23760"/>
+		<arts_relations>
+			<art_relation rel_art="38995255" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008993</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119423" added="2007-04-03 17:15:05" price="99.00" cover="jpg" last_release="2016-08-10 05:28:26" on_sale="1" file_id="8807739" chars="52208" type="0" file="8807739" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>short_story</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Форт Стеллар</book-title>
+					<annotation>
+						<p>Считалось что он погиб, прикрывая эвакуацию беженцев с планеты Дабог, но спустя десятилетия после окончания Галактической войны его найдут в криогенном модуле спасательной капсулы. Перед юношей, пережившим своих сверстников, откроется новый, послевоенный мир, но таков ли он, как рисовало воображение перед первым и последним боем?</p>
+					</annotation>
+					<keywords>искусственный интеллект,философское,далёкое будущее</keywords>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="7" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-02-23">2006-02-23</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119423</src-url>
+					<id>9eb9f27d-6ae8-4c33-b584-0ca556cd0bc3</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10395"/>
+		<arts_relations>
+			<art_relation rel_art="39438466" relation="8"/>
+			<art_relation rel_art="39438466" relation="1"/>
+			<art_relation rel_art="39438466" relation="2"/>
+			<art_relation rel_art="66731686" relation="7"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008990</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119424" added="2007-04-03 17:15:06" price="159.00" cover="jpg" last_release="2021-12-07 00:08:14" on_sale="1" file_id="91036568" chars="419721" type="0" file="91036568" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Остров Надежды</book-title>
+					<annotation>
+						<p>Чудовищное наследие Галактической войны – кладбища кораблей, дрейфующие в космосе в местах сражений звездных армад. Миллионы тонн обломков, среди которых теплится не только кибернетическая жизнь… Могут ли дети, выросшие в тесных отсеках, среди владычества боевых машин, обрести свободу и вернутся к людям?</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,галактические войны,далёкое будущее</keywords>
+					<date value="1997-01-01">1997</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="18"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-02-23">2006-02-23</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119424</src-url>
+					<id>855ef7e5-7757-4281-9793-83b4e10c7ca2</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="19080"/>
+		<arts_relations>
+			<art_relation rel_art="45168064" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008989</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119425" added="2007-04-03 17:15:11" price="159.00" cover="jpg" last_release="2021-12-07 00:06:17" on_sale="1" file_id="91036543" chars="616480" type="0" file="91036543" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Омикрон</book-title>
+					<annotation>
+						<p>Три десятилетия Галактической войны унесли многие миллионы жизней и превратили Землю в технократическую пустыню, где на одного живого человека приходилось до сотни кибернетических систем. Командующий объединенными силами военно-космического флота Земного Альянса адмирал Табанов накануне решительной схватки со Свободными Колониями стоит перед выбором: победить в войне, опираясь на искусственный разум, и превратить остатки человечества в рабов машин или уравнять шансы с противником, отказавшись от использования боевых кибермеханизмов…</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,спасение мира,далёкое будущее</keywords>
+					<date value="2006-01-01">2006</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Экспансия: История Галактики" number="13"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-02-26">2006-02-26</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119425</src-url>
+					<id>100be51d-ee43-4823-9a9c-84601dc4d2ed</id>
+					<version>1.1</version>
+					<history>
+						<p>v. 1.1 – Black Jack – правка форматирования книги</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="31005"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008991</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119426" added="2007-04-03 17:15:13" price="159.00" cover="jpg" last_release="2021-12-07 00:10:32" on_sale="1" file_id="91036573" chars="510407" type="0" file="91036573" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<genre>sf_space</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Чёрная Луна</book-title>
+					<annotation>
+						<p>Наследник знаменитого адмирала Воронцова, некий Джедиан Ланге, ученый и политик, пользуясь полученной властью, начинает масштабный эксперимент по изучению реликтовых жизненных форм, найденных при раскопках на базе «Черная Луна». Этот эксперимент быстро переходит не только этическую грань, но и понятие здравого смысла. Однако Джедиана мало волнуют судьбы миллионов людей, едва начавших строить новую жизнь после завершения Галактической войны.</p>
+					</annotation>
+					<keywords>искусственный интеллект,роботы,интриги,изобретения,мутанты,далёкое будущее</keywords>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="19" name="Экспансия: История Галактики"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2006-03-01">2006-03-01</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119426</src-url>
+					<id>0d108dfb-0dd6-44b2-8692-2d18eaa06468</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="21465"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008999</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119427" added="2007-04-03 17:15:17" price="59.90" cover="jpg" last_release="2012-05-01 11:13:49" on_sale="1" file_id="4847855" chars="543350" type="0" file="4847855" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>historical_fantasy</genre>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Святослав</first-name>
+						<last-name>Логинов</last-name>
+						<id>f1840fe7-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Черный смерч</book-title>
+					<annotation>
+						<p>Мужское волхование и женские чары не сходны между собой, а зачастую и просто враждебны. Но все людское волшебство черпает силу в предках и служит лучшей защитой от всякой напасти, против которой оказываются беспомощны даже могучие луки и богатырские копья. Пал в схватке с мангасом храбрый вождь Таши, и теперь уже его сын, носящий славное имя отца, противостоит врагам, мечтающим сжить со свету род человеческий.</p>
+					</annotation>
+					<keywords>спасение мира,стихийные бедствия,каменный век</keywords>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Черная кровь" number="2"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name>MCat78</last-name>
+						<nickname>MCat78</nickname>
+						<email>MCat78@mail.ru</email>
+					</author>
+					<program-used>FB Writer v2.2</program-used>
+					<date value="2008-05-20">20 May 2008</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119427</src-url>
+					<src-ocr>Текст предоставлен издательством «Эксмо»</src-ocr>
+					<id>fdbf39d8-1424-445a-b730-65df4492b0e4</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – создание fb2-документа из издательского текста – (MCat78)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Черная кровь. Черный смерч</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2003</year>
+					<isbn>5-699-03112-X</isbn>
+					<sequence number="0" name="Шедевры отечественной фантастики"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="4812"/>
+		<arts_relations/>
+		<authors>
+			<author id="f1840fe7-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44947</subject_id>
+				<url>svyatoslav-loginov/</url>
+				<first-name>Святослав</first-name>
+				<middle-name>Владимирович</middle-name>
+				<last-name>Логинов</last-name>
+				<full-name-rodit>Святослава Логинова</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119803" added="2007-04-03 17:34:48" price="49.90" cover="jpg" last_release="2015-01-12 23:33:47" on_sale="1" file_id="11612557" chars="729197" type="0" file="11612557" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>popadanec</genre>
+					<genre>vampire_book</genre>
+					<genre>sf_action</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Мифриловый крест</book-title>
+					<annotation>
+						<p>Простому российскому гражданину Сергею Иванову попадает в руки чудодейственный артефакт из иного мира, и теперь ему предстоит ответить на целую серию непростых вопросов. Можно ли расстрелять из гранатомета «нехилую» толпу волшебников? Может ли вампир быть добрым? Можно ли остановить конец света? И наконец, существует ли абсолютная истина или правда всегда в глазах смотрящего?</p>
+					</annotation>
+					<keywords>параллельные миры,вампиры,становление героя</keywords>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#_1000074955.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="1" name="Сага про Бомжа и Головастика"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1, FictionBook Editor Release 2.6.7</program-used>
+					<date value="2003-08-20">2003-08-20</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119803</src-url>
+					<src-url>http://book.pp.ru</src-url>
+					<src-ocr>OCR BiblioNet http://book.pp.ru</src-ocr>
+					<id>fb898abe-2add-4f67-9d14-a443819e0b0d</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Проскурин В. Мифриловый крест</book-name>
+					<publisher>Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2003</year>
+					<isbn>5-93556-292-8</isbn>
+					<sequence name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119804" added="2007-04-03 17:34:52" price="49.90" cover="jpg" last_release="2010-09-05 22:55:12" on_sale="1" file_id="830152" chars="749585" type="0" file="830152" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Пламя Деметры</book-title>
+					<annotation>
+						<p>Изменение социального строя на Деметре породило гражданскую войну, в которую оказались вовлечены все слои общества, включая наркоторговцев. Не остались в стороне и аборигены планеты – ящеры, их жизненные интересы были существенно затронуты строителями светлого будущего. Анатолий Ратников, попавший на Деметру по служебным делам, волею судьбы становится одним из главных действующих лиц происходящих событий. Боец высокого класса, он не только сражается за «правое дело», балансируя на грани жизни и смерти, но и попадает в виртуальную тюрьму, откуда в реальный мир, как правило, нет возврата. Но и здесь он находит выход, спасая себя и товарища. Только вот ради чего все это? Кому была нужна революция? Кто ее заказал? А если это эксперимент над многомиллионным населением планеты?</p>
+					</annotation>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Золотой цверг" number="2"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>OCR Альдебаран</nickname>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2004-04-05">2004-04-05</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119804</src-url>
+					<src-url>http://book.pp.ru/</src-url>
+					<src-ocr>BiblioNet</src-ocr>
+					<id>de0eb95f-e00f-447e-ba8a-9523cb7e155d</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Пламя Деметры</book-name>
+					<publisher>Армада, Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2004</year>
+					<isbn>5-93556-355-X</isbn>
+					<sequence number="319" name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119805" added="2007-04-03 17:34:55" price="49.90" cover="jpg" last_release="2021-11-11 14:35:21" on_sale="1" file_id="90223169" chars="761374" type="0" file="90223169" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Хоббит, который слишком много знал</book-title>
+					<annotation>
+						<p>Став одним из могущественных магов Средиземья, хоббит Хэмфаст решает навести порядок, продиктованный законами Добра и Справедливости, не только у себя на родине, но и в других мирах. Добро и Справедливость пробивают себе дорогу в жестоких боях, в грозных сражениях, в огне и дыму пожарищ, под свист рассекающих воздух клинков. Победы нередко оказываются призрачными, а идеалы по-прежнему недоступными. Но для того чтобы убедиться в этом, надо пройти долгий путь. Преодолеть который хоббиту помогает великий Гэндальф.</p>
+					</annotation>
+					<date value="2002-01-01">2002</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+						<email>black_jack@inbox.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2003-08-19">2003-08-19</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119805</src-url>
+					<src-url>http://www.aldebaran.ru/</src-url>
+					<src-ocr>OCR BiblioNet http://book.pp.ru</src-ocr>
+					<id>e42da19d-2a02-435d-bffb-fa46b897cf69</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Вадим Проскурин. Хоббит, который слишком много знал</book-name>
+					<publisher>Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2002</year>
+					<isbn>5-93556-244-8</isbn>
+					<sequence name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="1336"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119806" added="2007-04-03 17:34:59" price="49.90" cover="jpg" last_release="2017-11-15 13:42:21" on_sale="1" file_id="31949448" chars="732631" type="0" file="31949448" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Хоббит, который познал истину</book-title>
+					<annotation>
+						<p>Хэмфаст, сын Долгаста из рода Брендибэк, Шестой Герой Хоббитании, тот самый хоббит, который Слишком Много Знал, наконец-то познал Истину. Его родное Средиземье – один из множества миров, расположенных в Междусетье, и все эти миры смертны, и что еще хуже – внезапно смертны. Чтобы спасти Средиземье, Хэмфаст и его друзья должны проникнуть в мир, называемый Реальным. Задача не из простых, но разве это может остановить Героя?</p>
+					</annotation>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Сага о Хоббите" number="3"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+						<email>black_jack@inbox.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2003-08-19">2003-08-19</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119806</src-url>
+					<src-url>http://www.aldebaran.ru/</src-url>
+					<src-ocr>OCR BiblioNet http://book.pp.ru</src-ocr>
+					<id>9014c9a0-7597-430b-b0cb-3745eedbf42b</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Вадим Проскурин. Хоббит, который познал истину</book-name>
+					<publisher>Армада, Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2002</year>
+					<isbn>5-93556-261-8</isbn>
+					<sequence name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="2672"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119807" added="2007-04-03 17:35:05" price="24.95" cover="jpg" last_release="2008-08-05 16:20:54" on_sale="1" file_id="144827" chars="795739" type="0" file="144827" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Золотой цверг</book-title>
+					<annotation>
+						<p>Быть курьером – занятие очень ответственное. Тем более если ты доставляешь антикварный предмет, представляющий огромную ценность для целой расы. Но что, если при этом информацию от тебя скрывают, а сама доставка должна пройти в обстановке строжайшей секретности? Для Анатолия Ратникова, бывшего офицера, а ныне курьера высшего класса коммерческой компании, преград не существует, и вскоре ему придется узнать, что же это такое – загадочный золотой цверг. Лучше бы он не знал…</p>
+					</annotation>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Золотой цверг" number="1"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>roland@aldebaran.ru</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-09-23">2007-09-23</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119807</src-url>
+					<id>ea41a2a0-19a0-49fc-8148-6593f8385fbb</id>
+					<version>2</version>
+				</document-info>
+				<publish-info>
+					<book-name>Золотой цверг</book-name>
+					<publisher>Армада, Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2003</year>
+					<isbn>5-93556-322-3</isbn>
+					<sequence name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="120057" added="2007-04-03 17:50:09" price="29.95" cover="jpg" last_release="2008-08-08 18:27:03" on_sale="1" file_id="145651" chars="463293" type="0" file="145651" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_horror</genre>
+					<author>
+						<first-name>Виктор</first-name>
+						<middle-name>Павлович</middle-name>
+						<last-name>Точинов</last-name>
+						<id>064870c5-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Царь живых</book-title>
+					<annotation>
+						<p>Они – крутые парни, развлекающиеся охотой на людей – бомжей,нищих… По однажды они сделали ОЧЕНЬ БОЛЬШУЮ глупость – выбрали своейжертвой девчонку-бродяжку. Теперь их враги – ВАМПИРЫ, а уж «ночные хищники» умеют отыскивать свои жертвы из ниоткуда…</p>
+						<p>Один из «охотников» уже укушен и завампирен.</p>
+						<p>Другой, каждую ночь сражающийся с вампирами, мечтает только ДОЖИТЬ ДО РАССВЕТА…</p>
+					</annotation>
+					<date value="2002-01-01">2002</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name>Faiber</last-name>
+						<email>faiber@yandex.ru</email>
+					</author>
+					<program-used>Fiction Book Designer, FB Writer v1.1</program-used>
+					<date value="2007-07-25">25.07.2007</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=120057</src-url>
+					<src-ocr>Авторский вариант</src-ocr>
+					<id>916ff3b7-b676-43cb-852c-b3b8773d10dc</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – создание fb2-документа из авторского текста – (Faiber)</p>
+					</history>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="064870c5-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45280</subject_id>
+				<url>viktor-tochinov/</url>
+				<first-name>Виктор</first-name>
+				<middle-name>Павлович</middle-name>
+				<last-name>Точинов</last-name>
+				<full-name-rodit>Виктора Точинова</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="120689" added="2007-04-03 18:23:06" price="159.00" cover="jpg" last_release="2013-07-17 09:39:52" on_sale="1" file_id="8190289" chars="459951" type="0" file="8190289" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ковчег</book-title>
+					<annotation>
+						<p>Две тысячи лет назад глобальная катастрофа превратила межзвездный исследовательский корабль «Ковчег» в «летучий голландец». Однако жизнь на нем сохранилась. Полуразумные обитатели различных планет, собранные для проведения эксперимента по ускоренному развитию интеллекта, выстояли, приспособились к новым условиям и принялись сражаться за лидерство под искусственным солнцем Ковчега, храня память о таинственных и могучих Богах, когда-то низвергнутых их предками, и страшась возмездия. Но однажды старые легенды нашли реальное подтверждение…</p>
+					</annotation>
+					<keywords>постапокалиптика,искусственный интеллект,спасение мира,мутации,квест,звёздный ковчег,становление героя,далёкое будущее</keywords>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>roland@aldebaran.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1, FB Editor v2.0</program-used>
+					<date value="2009-04-14">14 April 2009</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=120689</src-url>
+					<src-ocr>Авторский текст</src-ocr>
+					<id>e27a2b73-0a74-4920-afcf-994c6bc3fa25</id>
+					<version>1.1</version>
+					<history>
+						<p>v 1.1 – дополнительное форматирование – (MCat78)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Ковчег</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2009</year>
+					<isbn>978-5-699-33788-0</isbn>
+					<sequence number="0" name="Ради славы Вселенной"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="2385"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008956</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="120690" added="2007-04-03 18:23:10" price="159.00" cover="jpg" last_release="2013-08-23 13:57:38" on_sale="1" file_id="8292277" chars="558996" type="0" file="8292277" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Восход Ганимеда</book-title>
+					<annotation>
+						<p>Судьба земной колонии на спутнике Юпитера Ганимеде висит на волоске. Члены экипажа крейсера военно-космических сил США, тайно прибывшего к планете для поиска артефакта внеземной цивилизации, не выдержав длительного перелета, один за другим сходят с ума. Джон Кински, командир корабля, уже готов нажать на ядерную кнопку и уничтожить Ганимед. Остановить катастрофу пытается девушка-киборг Лада, агент российской внешней разведки. Она не колеблясь идет в самое пекло, потому что жалеть и терять ей уже нечего. Все самое страшное, что может произойти с человеком, Лада уже пережила…</p>
+					</annotation>
+					<keywords>сверхспособности,альтернативная история,спасение мира,вторжение «чужих»,мутации,близкое будущее,становление героя</keywords>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Соприкосновение">
+						<sequence number="1" name="Соприкосновение"/>
+					</sequence>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>roland@aldebaran.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2006-07-30">2006-07-30</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=120690</src-url>
+					<src-ocr>Авторский текст</src-ocr>
+					<id>5fcc885f-90f1-4cc4-aaa6-601499e47b4c</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Восход Ганимеда</book-name>
+					<publisher>Эксмо-Пресс</publisher>
+					<city>Москва</city>
+					<year>2000</year>
+					<isbn>5-04-004965-X</isbn>
+					<sequence name="Абсолютное оружие"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="9540"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008968</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="120691" added="2007-04-03 18:23:13" price="159.00" cover="jpg" last_release="2013-07-16 13:08:51" on_sale="1" file_id="8189374" chars="578601" type="0" file="8189374" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Форма жизни</book-title>
+					<annotation>
+						<p>Загадочная новая форма жизни – что она несет человечеству? Гибель или бессмертие? Странная серебристая плесень, атаковавшая механизмы и поселенцев колонии на Марсе, поставила под угрозу планы экспансии могущественной корпорации. Ее шеф Майлер фон Браун решил разобраться с этой напастью по-своему…</p>
+					</annotation>
+					<keywords>вторжение «чужих»,мутации,квест,ксенофантастика,далёкое будущее</keywords>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="1" name="Форма жизни"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>MCat78</nickname>
+					</author>
+					<program-used>FictionBook Editor Release 2.6</program-used>
+					<date value="2010-11-21">21 November 2010</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=120691</src-url>
+					<src-ocr>Текст предоставлен издательством</src-ocr>
+					<id>5823d8cb-98b9-4858-a98b-d00d4c801741</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 – (MCat78)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Форма жизни</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2009</year>
+					<isbn>5-699-03241-X</isbn>
+					<sequence name="Ради славы Вселенной"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="11925"/>
+		<arts_relations>
+			<art_relation rel_art="66716014" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008985</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="120985" added="2007-04-03 18:38:11" price="59.90" cover="jpg" last_release="2011-10-13 14:35:10" on_sale="1" file_id="3805025" chars="630605" type="0" file="3805025" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>city_fantasy</genre>
+					<genre>sf_heroic</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Казнь</book-title>
+					<annotation>
+						<p>Ночные кошмары хороши одним – возможностью проснуться. У нее такой возможности нет. Она сделала шаг, и оказалась в мире, где кромешный ужас – не просто реальность, но единственная реальность. Можно, наверное, сделать еще шаг. Вот только каким окажется следующий мир? Еще страшнее? Еще безысходнее? И каким тогда будет ее следующий шаг?..</p>
+					</annotation>
+					<date value="1999-01-01">1999</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-08-22">2007-08-22</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=120985</src-url>
+					<id>a31a8453-77b9-48a6-be89-5e7a9e0a887b</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="7218"/>
+		<arts_relations>
+			<art_relation rel_art="42226686" relation="8"/>
+			<art_relation rel_art="26354748" relation="4"/>
+			<art_relation rel_art="26354748" relation="3"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="121355" added="2007-04-03 18:58:37" price="99.00" cover="jpg" last_release="2016-07-30 06:18:39" on_sale="1" file_id="11709219" chars="49870" type="0" file="11709219" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<genre>narrative</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Бремя воина</book-title>
+					<annotation>
+						<p>Земли нет. Ашанги – жестокая раса, вступившая в схватку с Человечеством, одержала Пиррову победу. Более «мудрые» космические существа приютили на одной из планет горстку людей, используя их в качестве наемников. Однако наступает день, когда Человек и Ашанг встречаются вновь, опять на узкой тропе войны, не оставляющей права выбора… И все же он есть. Стоит лишь на минуту остановиться, задуматься над смыслом истории и пелена ненависти упадет с глаз. Главное, чтобы это не произошло слишком поздно.</p>
+					</annotation>
+					<keywords>вторжение «чужих»,ксенофантастика,философское,далёкое будущее</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<home-page>http://livadny.ru/</home-page>
+					</author>
+					<author>
+						<first-name>Александр</first-name>
+						<middle-name>Владимирович</middle-name>
+						<last-name>Остриков</last-name>
+						<nickname>Green Men</nickname>
+						<home-page>http://livadny.ru/</home-page>
+					</author>
+					<program-used>htmlDocs2fb2, FictionBook Editor Release 2.6.6</program-used>
+					<date value="2014-10-27">27.10.2014</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=121355</src-url>
+					<src-url>http://livadny.ru/</src-url>
+					<src-ocr>текст предоставлен автором</src-ocr>
+					<id>4b52917f-5c99-4e7a-ac4d-63d8472d1760</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="1485"/>
+		<arts_relations/>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008973</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="121356" added="2007-04-03 18:58:39" price="159.00" cover="jpg" last_release="2013-07-16 13:15:09" on_sale="1" file_id="8189377" chars="542287" type="0" file="8189377" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Колония</book-title>
+					<annotation>
+						<p>Тридцать миллионов лет – немыслимый срок для землян, осваивающих Марс. И краткий миг для андроида, пролежавшего все это время в анабиозе по воле могущественных врагов с давно погибшей планеты. Две эпохи, две цивилизации, разделенные пропастью веков, – и такие схожие проблемы… Чудовищная космическая катастрофа не погубила бы несчастную Селену, если бы не внутренние распри обитателей планеты, порожденные жаждой могущества и наживы. И сейчас здесь, на Марсе, все повторялось вновь на очередном витке бесконечной спирали времени… Быть может, встреча с братом по разуму (хотя и наполовину механическим) поможет людям избежать участи своих предшественников?</p>
+					</annotation>
+					<keywords>искусственный интеллект,квест,ксенофантастика,далёкое будущее</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="2" name="Форма жизни"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2004-11-21">2004-11-21</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=121356</src-url>
+					<src-ocr>OCR BiblioNet</src-ocr>
+					<id>27753082-3c80-4c78-a767-af3c14c2f7cf</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Ливадный А.Л. Колония: Фантастические произведения</book-name>
+					<publisher>Эксмо</publisher>
+					<city>М.</city>
+					<year>2004</year>
+					<isbn>5-699-07326-6</isbn>
+					<sequence number="00" name="Абсолютное оружие"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="9540"/>
+		<arts_relations>
+			<art_relation rel_art="66851303" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008953</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="121357" added="2007-04-03 18:58:41" price="129.00" cover="jpg" last_release="2013-07-16 13:23:16" on_sale="1" file_id="8189380" chars="153434" type="0" file="8189380" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<genre>narrative</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Владыка ночи</book-title>
+					<annotation>
+						<p>Кто они – древние селениты – миф или реальность? Откуда на орбите земли появилась луна? Что означает древнее слово «Атлантида» на языке обитателей Селена? Ответ на эти вопросы дает повесть «Владыка Ночи».</p>
+					</annotation>
+					<keywords>искусственный интеллект,ксенофантастика,далёкое будущее</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="3" name="Форма жизни"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>roland@aldebaran.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2006-06-13">2006-06-13</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=121357</src-url>
+					<id>6e0197ae-5d7e-4ba3-b4a2-3da14fd38b6e</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Форма жизни</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2005</year>
+					<isbn>5-699-09370-2</isbn>
+					<sequence name="Экспансия"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="5805"/>
+		<arts_relations>
+			<art_relation rel_art="67078068" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008947</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122438" added="2007-04-03 20:00:56" price="49.90" cover="jpg" last_release="2010-09-05 22:53:47" on_sale="1" file_id="830142" chars="774941" type="0" file="830142" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Звездная сеть</book-title>
+					<annotation>
+						<p>Люди не одиноки во Вселенной. Миллионы и миллиарды миров породили разумную жизнь, и многие из этих миров связаны Сетью. В Сети можно получить любое знание, которое ты способен усвоить. Через Сеть можно говорить, с любым существом, с которым есть о чем разговаривать. И еще через Сеть можно путешествовать, перенося свою душу в тело существа из другого мира.</p>
+					</annotation>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Звездная сеть" number="1"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2005-01-18">2005-01-18</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122438</src-url>
+					<src-url>http://book.pp.ru</src-url>
+					<src-ocr>OCR BiblioNet, Spellcheck by Серж</src-ocr>
+					<id>28b34da0-0c47-43be-a4dc-594c79a5d775</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Проскурин В.Г. Звездная сеть: Фантастический роман</book-name>
+					<publisher>АРМАДА: «Издательство Альфа-книга»</publisher>
+					<city>М.</city>
+					<year>2004</year>
+					<isbn>5-93556-448-3</isbn>
+					<sequence number="359" name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="668"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122442" added="2007-04-03 20:01:09" price="44.95" cover="jpg" last_release="2007-08-14 13:45:13" on_sale="0" file_id="53810" chars="349135" type="0" file="53810" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>foreign_detective</genre>
+					<genre>det_hard</genre>
+					<author>
+						<first-name>Росс</first-name>
+						<last-name>Макдональд</last-name>
+						<id>1e009119-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ослепительный оскал</book-title>
+					<date value="1952-01-01">1952</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>en</src-lang>
+					<translator>
+						<first-name>Олег</first-name>
+						<middle-name>Эрнстович</middle-name>
+						<last-name>Колесников</last-name>
+						<home-page>http://www.magister.msk.ru</home-page>
+						<id>d006448d-5a08-102a-990a-1c76fd93e5c4</id>
+					</translator>
+					<sequence name="Лью Арчер" number="4"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Денис</first-name>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2005-01-19">2005-01-19</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122442</src-url>
+					<id>713ebdf3-00cf-4827-847f-f9b4a50a2709</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 OCR Денис</p>
+					</history>
+				</document-info>
+				<custom-info info-type="src-author-first-name">Ross</custom-info>
+				<custom-info info-type="src-author-last-name">McDonald</custom-info>
+				<custom-info info-type="src-book-title">The Ivory Grin</custom-info>
+				<custom-info info-type="src-sequence-name">Lew Archer – 4</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="1e009119-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45560</subject_id>
+				<url>ross-makdonald/</url>
+				<first-name>Росс</first-name>
+				<middle-name/>
+				<last-name>Макдональд</last-name>
+				<full-name-rodit>Росса Макдональда</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0418d3a4-432c-102a-9588-671c5559bfb4">
+				<subject_id>57020</subject_id>
+				<url>oleg-kolesnikov/</url>
+				<first-name>Олег</first-name>
+				<middle-name>Эрнстович</middle-name>
+				<last-name>Колесников</last-name>
+				<full-name-rodit>Олега Колесникова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122927" added="2007-04-03 20:22:24" price="209.00" cover="jpg" last_release="2012-06-02 01:55:11" on_sale="1" file_id="5047495" chars="262948" type="0" file="5047495" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Алексей</first-name>
+						<middle-name>Игоревич</middle-name>
+						<last-name>Бессонов</last-name>
+						<id>d186dc52-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ветер и сталь</book-title>
+					<annotation>
+						<p>Алекс Королев – потомственный офицер имперского Галактического флота. Пока такие, как он, в строю, космическим пиратам и гангстерам не будет спокойной жизни. И хотя мать-прародительница Земля изувечена в звездных и внутренних войнах, в рыцарских сердцах космических десантников живы мужество и любовь к прекрасной даме.</p>
+					</annotation>
+					<keywords>пираты,становление героя,далёкое будущее</keywords>
+					<date value="1996-01-01">1996</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Мир Алекса Королева">
+						<sequence name="Алекс Королев" number="1"/>
+					</sequence>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-09-06">2007-09-06</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122927</src-url>
+					<id>7e4e962b-680c-4cc8-bec9-e8389f86b274</id>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="4456"/>
+		<arts_relations/>
+		<authors>
+			<author id="d186dc52-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44440</subject_id>
+				<url>aleksey-bessonov/</url>
+				<first-name>Алексей</first-name>
+				<middle-name>Игоревич</middle-name>
+				<last-name>Бессонов</last-name>
+				<full-name-rodit>Алексея Бессонова</full-name-rodit>
+				<lvl>3</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122928" added="2007-04-03 20:22:28" price="189.00" cover="jpg" last_release="2012-06-02 01:57:15" on_sale="1" file_id="5047505" chars="452867" type="0" file="5047505" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Алексей</first-name>
+						<middle-name>Игоревич</middle-name>
+						<last-name>Бессонов</last-name>
+						<id>d186dc52-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Маска власти</book-title>
+					<annotation>
+						<p>Алекс Королев – потомственный офицер имперского Галактического флота. Пока такие, как он, в строю, космическим пиратам и гангстерам не будет спокойной жизни. И хотя мать-прародительница Земля изувечена в звездных и внутренних войнах, в рыцарских сердцах космических десантников живы мужество и любовь к прекрасной даме.</p>
+					</annotation>
+					<keywords>далёкое будущее</keywords>
+					<date value="1996-01-01">1996</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Мир Алекса Королева">
+						<sequence name="Алекс Королев" number="2"/>
+					</sequence>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-09-06">2007-09-06</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122928</src-url>
+					<id>dff4006f-7d97-4472-9b64-3d74d0276b86</id>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="3416"/>
+		<arts_relations/>
+		<authors>
+			<author id="d186dc52-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44440</subject_id>
+				<url>aleksey-bessonov/</url>
+				<first-name>Алексей</first-name>
+				<middle-name>Игоревич</middle-name>
+				<last-name>Бессонов</last-name>
+				<full-name-rodit>Алексея Бессонова</full-name-rodit>
+				<lvl>3</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122929" added="2007-04-03 20:22:32" price="139.00" cover="jpg" last_release="2012-06-02 01:44:35" on_sale="1" file_id="5047445" chars="760638" type="0" file="5047445" show_preview="4" allow_read="0" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Алексей</first-name>
+						<middle-name>Игоревич</middle-name>
+						<last-name>Бессонов</last-name>
+						<id>d186dc52-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Наследник судьбы</book-title>
+					<annotation>
+						<p>Проплывают столетия – краткий миг в жизни Галактики, но все так же терзают человеческие сердца любовь и ненависть, подлость и благородство. Звездный корсар – Торвард Королев по велению Судьбы ведет свой неуязвимый фрегат на битву с Лордами, освобождая планеты от многовекового страха и рабства.</p>
+					</annotation>
+					<keywords>пираты,становление героя,далёкое будущее</keywords>
+					<date value="1998-01-01">1998</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Мир Алекса Королева">
+						<sequence name="Торвард Королев" number="1"/>
+					</sequence>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-09-08">2007-09-08</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122929</src-url>
+					<id>c4ecc04b-a6f3-47c9-bd17-e8312a91d5f4</id>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="18224"/>
+		<arts_relations/>
+		<authors>
+			<author id="d186dc52-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44440</subject_id>
+				<url>aleksey-bessonov/</url>
+				<first-name>Алексей</first-name>
+				<middle-name>Игоревич</middle-name>
+				<last-name>Бессонов</last-name>
+				<full-name-rodit>Алексея Бессонова</full-name-rodit>
+				<lvl>3</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="124144" added="2007-04-03 21:10:20" price="29.95" cover="jpg" last_release="2007-08-14 13:10:33" on_sale="1" file_id="53805" chars="201916" type="0" file="53805" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>foreign_detective</genre>
+					<genre>det_irony</genre>
+					<author>
+						<first-name/>
+						<last-name>Сан-Антонио</last-name>
+						<id>8755df0b-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Причесывая жирафу</book-title>
+					<date value="1963-01-01">1963</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>fr</src-lang>
+					<translator>
+						<first-name>Олег</first-name>
+						<last-name>Колесников</last-name>
+						<home-page>http://www.magister.msk.ru</home-page>
+						<id>0418d3a4-432c-102a-9588-671c5559bfb4</id>
+					</translator>
+					<sequence name="Сан-Антонио" number="52"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2005-03-02">2005-03-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=124144</src-url>
+					<id>e8242b9d-a322-448a-be1f-7cb4c89bebd9</id>
+					<version>1.0</version>
+				</document-info>
+				<custom-info info-type="src-author-last-name">San-Antonio</custom-info>
+				<custom-info info-type="src-book-title">En peignant la girafe</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="8755df0b-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>46840</subject_id>
+				<url>san-antonio/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Сан-Антонио</last-name>
+				<full-name-rodit>Сана-Антонио</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0418d3a4-432c-102a-9588-671c5559bfb4">
+				<subject_id>57020</subject_id>
+				<url>oleg-kolesnikov/</url>
+				<first-name>Олег</first-name>
+				<middle-name>Эрнстович</middle-name>
+				<last-name>Колесников</last-name>
+				<full-name-rodit>Олега Колесникова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="124371" added="2007-04-03 21:16:19" price="69.90" cover="jpg" last_release="2014-11-11 12:16:23" on_sale="1" file_id="11294437" chars="601880" type="0" file="11294437" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_social</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Долина Совести</book-title>
+					<annotation>
+						<p>Герой этой книги обаятелен и, без сомнения, талантлив. Друзья не мыслят себя без него. Мама души в нем не чает. Женщины стоят у него под окнами. У всеобщей любви есть лишь одна темная сторона: всякий, кто встретится на его пути, рискует жизнью.</p>
+						<p>Кто сумеет без потерь пересечь Долину Совести?</p>
+					</annotation>
+					<keywords>магический реализм,становление героя,философская фантастика</keywords>
+					<date value="2001-01-01">2001</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>On84ly</nickname>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.6</program-used>
+					<date value="2014-11-11">11 November 2014</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=124371</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>35557bc1-23e6-4780-a064-d4b8223a87e3</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 – (On84ly)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Долина Совести: Роман / Марина Дяченко, Сергей Дяченко</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2007</year>
+					<isbn>978-5-699-23524-7</isbn>
+					<sequence name="Стрела Времени"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="24356"/>
+		<arts_relations>
+			<art_relation rel_art="620135" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="124620" added="2007-04-03 21:26:04" price="49.90" cover="jpg" last_release="2010-09-05 22:53:01" on_sale="1" file_id="830132" chars="701054" type="0" file="830132" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ураган мысли</book-title>
+					<annotation>
+						<p>Однажды в мире появилась компьютерная программа, изменяющая сознание людей. Человек, столкнувшийся с этой программой, получал полный контроль над разумом и эмоциями, а моторные навыки, выработанные в компьютерных играх, становились применимы и в реальности. Люди стали умнее, но не стали добрее, и зло, скопившееся на дне души обывателя, выплеснулось наружу. Это было похоже на армагеддон.</p>
+						<p>Прошло несколько лет. Лорд Рэйзор, один из четырех властителей клана Сакура, кажется, получил шанс все изменить…</p>
+					</annotation>
+					<date value="2005-01-01">2005</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Black</first-name>
+						<last-name>Jack</last-name>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2005-03-18">2005-03-18</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=124620</src-url>
+					<src-url>http://book.pp.ru</src-url>
+					<src-ocr>OCR BiblioNet</src-ocr>
+					<id>2dbdaeb1-8f10-4769-a0b7-63c7b2ec0c5d</id>
+					<version>1.0</version>
+				</document-info>
+				<publish-info>
+					<book-name>Проскурин В.Г. Ураган мысли: Фантастический роман</book-name>
+					<publisher>АРМАДА: «Издательство Альфа-книга»</publisher>
+					<city>М.</city>
+					<year>2005</year>
+					<isbn>5-93556-474-2</isbn>
+					<sequence number="369" name="Фантастический боевик"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="668"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="124993" added="2007-04-03 21:41:12" price="59.90" cover="jpg" last_release="2012-09-27 11:40:40" on_sale="1" file_id="5834625" chars="671757" type="0" file="5834625" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>city_fantasy</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Пещера</book-title>
+					<annotation>
+						<p>Жители этого города, вполне похожего на наши города, существуют в двух измерениях. Днем они живут обыденной жизнью, но без жестокости и агрессии; ночью, во сне, они являются в Мир Пещеры, и каждый из них живет зверем, хищником или жертвой, сильным или слабым… Можно ли выпустить человеческого зверя из темной пещеры? И, главное, нужно ли?!</p>
+					</annotation>
+					<keywords>магический реализм,становление героя,Лунный Меч</keywords>
+					<date value="1998-01-01">1998</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>On84ly</nickname>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.6</program-used>
+					<date value="2007-05-07">2007-05-07</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=124993</src-url>
+					<src-ocr>Текст предоставлен издательством</src-ocr>
+					<id>c83f4e16-e323-4873-bcef-d72f7a329bff</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 – (On84ly)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Пещера: Избранные произведения / Марина Дяченко, Сергей Дяченко</book-name>
+					<publisher>Эксмо</publisher>
+					<city>Москва</city>
+					<year>2008</year>
+					<isbn>978-5-699-29524-1</isbn>
+					<sequence name="Миры М. и С. Дяченко"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="17644"/>
+		<arts_relations>
+			<art_relation rel_art="39437786" relation="8"/>
+			<art_relation rel_art="4942984" relation="4"/>
+			<art_relation rel_art="4942984" relation="3"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="126224" added="2007-04-03 22:47:46" price="159.00" cover="jpg" last_release="2013-07-17 08:47:31" on_sale="1" file_id="8190224" chars="508435" type="0" file="8190224" show_preview="4" allow_read="0" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf</genre>
+					<author>
+						<first-name>Андрей</first-name>
+						<middle-name>Львович</middle-name>
+						<last-name>Ливадный</last-name>
+						<id>f079035b-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Смежный сектор</book-title>
+					<annotation>
+						<p>Три цивилизации, разительно непохожие друг на друга по принципам общественного устройства, образу мышления, технологиям и эволюционному развитию, вступают в конфликт. Людей, Ксенобиан и Иных разделяет пропасть, которую кажется, невозможно одолеть, и единственным средством, способным остановить взаимоуничтожающую войну у роковой черты является Разум.</p>
+					</annotation>
+					<keywords>искусственный интеллект,звёздный ковчег,ксенофантастика,далёкое будущее</keywords>
+					<date value="2005-01-01">2005</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="2" name="Иной разум"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>OCR Альдебаран</nickname>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1, FictionBook Editor Release 2.6</program-used>
+					<date value="2006-07-11">2006-07-11</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=126224</src-url>
+					<id>e7f297ec-7143-4552-ab1c-2c8ce5bef367</id>
+					<version>1.1</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="57260"/>
+		<arts_relations>
+			<art_relation rel_art="49895093" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="f079035b-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44946</subject_id>
+				<url>andrey-livadnyy/</url>
+				<first-name>Андрей</first-name>
+				<middle-name>Львович</middle-name>
+				<last-name>Ливадный</last-name>
+				<full-name-rodit>Андрея Ливадного</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+				<exid>1-00000008931</exid>
+			</author>
+		</authors>
+	</art>
+	<art int_id="127074" added="2007-04-04 12:34:57" price="59.90" cover="jpg" last_release="2008-08-05 22:03:27" on_sale="1" file_id="144950" chars="586905" type="0" file="144950" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<author>
+						<first-name>Виктор</first-name>
+						<last-name>Бурцев</last-name>
+						<id>4489c479-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Алмазная реальность</book-title>
+					<annotation>
+						<p>Середина XXI века. Независимый журналист Константин Таманский отправляется в качестве военного корреспондента в Африку, где между местными империями много лет идет тотальная кровопролитная война с использованием солдат-киборгов, космических спутников с лазерными орудиями и других военных технологий будущего. Фиксируя небывалые зверства воюющих сторон и абсолютную бессмысленность происходящего, Таманский приходит к выводу, что в этой бойне заинтересованы куда более могущественные силы, нежели марионеточные правительства банановых республик или мировые сверхдержавы. И даже принимающие участие в военных действиях зловещие боги вуду, скорее всего, лишь фигуры на шахматной доске незримых игроков.</p>
+					</annotation>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Алмазные нервы" number="2"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Тимофей</first-name>
+						<last-name>Лукашевич</last-name>
+						<nickname>Timo</nickname>
+						<email>efreet@tut.by</email>
+					</author>
+					<program-used>ClearTXT 1.0 (Timo's edition), FB Writer v1.1</program-used>
+					<date value="2002-11-21">13 August 2007</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=127074</src-url>
+					<src-ocr>OCR BiblioNet</src-ocr>
+					<id>984f4562-1db8-46e5-8a4b-2076725a1b84</id>
+					<version>1.1</version>
+					<history>
+						<p>v 1.1 – дополнительное форматирование – (Faiber)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Бурцев В. Алмазная реальность</book-name>
+					<publisher>Эксмо</publisher>
+					<city>М.</city>
+					<year>2004</year>
+					<isbn>5-699-05482-0</isbn>
+					<sequence number="0" name="Русская фантастика"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="3208"/>
+		<arts_relations/>
+		<authors>
+			<author id="4489c479-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>46075</subject_id>
+				<url>viktor-burcev/</url>
+				<first-name>Виктор</first-name>
+				<middle-name/>
+				<last-name>Бурцев</last-name>
+				<full-name-rodit>Виктора Бурцева</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="127075" added="2007-04-04 12:35:03" price="59.90" cover="jpg" last_release="2007-08-13 18:20:32" on_sale="1" file_id="53731" chars="588510" type="0" file="53731" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<author>
+						<first-name>Виктор</first-name>
+						<last-name>Бурцев</last-name>
+						<id>4489c479-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Алмазные нервы</book-title>
+					<annotation>
+						<p>Экспериментальный образец Алмазных НЕРвов, или НейроРазъемов, становится причиной многочисленных интриг и грандиозных уличных битв в Москве середины XXI века. Якудза и гурэнтай, отечественная мафия и Черные Братья, спецслужбы и киберы – все жаждут любой ценой получить уникальный инструмент, позволяющий многократно проникать в глубины Виртуальности. Хакеру Артему Яковлеву и журналисту Константину Таманскому, оказавшимся в центре стремительно разворачивающихся событий, приходится взяться за оружие, чтобы попытаться спасти себя и близких людей.</p>
+					</annotation>
+					<date value="2000-01-01">2000</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Алмазные нервы" number="1"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Andrew</first-name>
+						<last-name>Doronin</last-name>
+						<nickname>by_zero</nickname>
+					</author>
+					<author>
+						<first-name>Faiber</first-name>
+						<last-name/>
+						<email>faiber@yandex.ru</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2007-08-13">2005-04-02</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=127075</src-url>
+					<src-url>http://book.pp.ru</src-url>
+					<src-ocr>OCR BibloNet</src-ocr>
+					<id>a20f8b53-e434-4761-b9bb-41fcd7d39648</id>
+					<version>1.1</version>
+					<history>
+						<p>v 1.0 – создание fb2 – by_zero</p>
+						<p>v 1.1 – исправлены орфографические ошибки – Faiber</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Бурцев В. Алмазные нервы</book-name>
+					<publisher>Эксмо</publisher>
+					<city>М.</city>
+					<year>2004</year>
+					<isbn>5-699-05240-2</isbn>
+					<sequence number="0" name="Русская фантастика"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="4010"/>
+		<arts_relations/>
+		<authors>
+			<author id="4489c479-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>46075</subject_id>
+				<url>viktor-burcev/</url>
+				<first-name>Виктор</first-name>
+				<middle-name/>
+				<last-name>Бурцев</last-name>
+				<full-name-rodit>Виктора Бурцева</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="129159" added="2007-04-04 14:08:47" price="49.90" cover="jpg" last_release="2007-10-02 22:41:55" on_sale="1" file_id="58348" chars="740867" type="0" file="58348" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_cyberpunk</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Звездный шлюз</book-title>
+					<annotation>
+						<p>Противостояние с инопланетными агрессорами закончилось победой. Казалось бы, битва закончена, враги повержены и теперь можно передохнуть. Конечно, никто не обещает, что отдых будет долгим, но все-таки...</p>
+						<p>Однако жизнь вносит свои коррективы в наши планы. По интернету стали рассылать подробную инструкцию как собрать терминал и куда можно для начала отправиться. Казалось бы, кто обратит внимание на такие письма? Но обязательно найдутся люди, которые захотят проверить полученную информацию.</p>
+						<p>И теперь нужно думать как остановить этот снежный ком подключений к межзвездной Сети. И думать быстро, иначе будет поздно.</p>
+					</annotation>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Звездная сеть" number="2"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>roland@aldebaran.ru</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1</program-used>
+					<date value="2007-09-23">2007-09-23</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=129159</src-url>
+					<id>aff184c5-45ed-4333-ade4-16d5606a082b</id>
+					<version>2</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="668"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="129210" added="2007-04-04 14:11:05" price="59.90" cover="jpg" last_release="2015-11-26 10:41:03" on_sale="1" file_id="15882468" chars="381962" type="0" file="15882468" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>dragon_fantasy</genre>
+					<author>
+						<first-name>Марина и Сергей</first-name>
+						<last-name>Дяченко</last-name>
+						<id>e00dfc87-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ритуал</book-title>
+					<annotation>
+						<p>Она – прекрасная принцесса, но безобразна. Он – свирепый дракон, но человечен. Оба они выламываются из клетки ритуалов, жестоких либо лицемерных, оба проигрывают войну против мира, где искренность смешна, а любовь невозможна…</p>
+						<p>Но проигрывают ли?</p>
+						<p>М. и С. Дяченко считают «Ритуал» самым романтичным своим произведением.</p>
+						<p>Тимур Бекмамбетов спродюсировал по мотивам этого культового романа кинофильм «Он – дракон».</p>
+					</annotation>
+					<date value="1996-01-01">1996</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1, FictionBook Editor Release 2.6.6</program-used>
+					<date value="2007-08-22">2007-08-22</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=129210</src-url>
+					<id>4a17aa53-4a51-11e5-87ef-0025905a06ea</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="78666"/>
+		<arts_relations>
+			<art_relation rel_art="620155" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="e00dfc87-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44608</subject_id>
+				<url>marina-i-sergey-dyachenko/</url>
+				<first-name>Марина и Сергей</first-name>
+				<middle-name/>
+				<last-name>Дяченко</last-name>
+				<full-name-rodit>Марины и Сергея Дяченко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="130931" added="2007-04-04 15:34:20" price="9.99" cover="jpg" last_release="2016-07-30 06:11:01" on_sale="1" file_id="53519" chars="37935" type="0" file="53519" show_preview="4" allow_read="1" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf</genre>
+					<author>
+						<first-name>Вадим</first-name>
+						<middle-name>Геннадьевич</middle-name>
+						<last-name>Проскурин</last-name>
+						<id>fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Люди, черви и боги</book-title>
+					<date value="2006-01-01">2006</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>Roland</nickname>
+						<email>ronaton@gmail.com</email>
+					</author>
+					<program-used>FB Tools, FB Writer v1.1</program-used>
+					<date value="2006-01-30">2006-01-30</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=130931</src-url>
+					<src-ocr>OCR Хас</src-ocr>
+					<id>1cb9426d-fa29-49ba-bd0f-ec1dad70decf</id>
+					<version>1.0</version>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="fda4d1b0-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45135</subject_id>
+				<url>vadim-proskurin/</url>
+				<first-name>Вадим</first-name>
+				<middle-name>Геннадьевич</middle-name>
+				<last-name>Проскурин</last-name>
+				<full-name-rodit>Вадима Проскурина</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="132962" added="2007-04-04 17:02:14" price="24.95" cover="jpg" last_release="2009-05-22 21:36:44" on_sale="1" file_id="201927" chars="253812" type="0" file="201927" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>foreign_detective</genre>
+					<author>
+						<first-name>Дей</first-name>
+						<last-name>Кин</last-name>
+						<id>a8ade6f4-2a82-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>В человеческих джунглях</book-title>
+					<annotation>
+						<p>Дей Кин – известный американский писатель, яркий представитель детективного жанра. Его произведения выходили в таких популярных американских изданиях, как `Черная маска`, «Детективные истории». </p>
+					</annotation>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>en</src-lang>
+					<translator>
+						<first-name>Олег</first-name>
+						<middle-name>Эрнстович</middle-name>
+						<last-name>Колесников</last-name>
+						<home-page>http://www.magister.msk.ru</home-page>
+						<id>d006448d-5a08-102a-990a-1c76fd93e5c4</id>
+					</translator>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>NickNem</nickname>
+					</author>
+					<program-used>Fiction Book Designer</program-used>
+					<date value="2006-03-20">20.03.2006</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=132962</src-url>
+					<src-url>www.LitPortal.ru</src-url>
+					<src-ocr>http://bestlibrary.org.ru</src-ocr>
+					<id>4a1e7cc6-4a51-11e5-87ef-0025905a06ea</id>
+					<version>1.0</version>
+					<history>
+						<p>V 1.0 Convert to FB2 NickNem</p>
+					</history>
+				</document-info>
+				<custom-info info-type="src-author-first-name">Day</custom-info>
+				<custom-info info-type="src-author-last-name">Keen</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="a8ade6f4-2a82-102a-9ae1-2dfe723fe7c7">
+				<subject_id>49963</subject_id>
+				<url>dey-kin/</url>
+				<first-name>Дей</first-name>
+				<middle-name/>
+				<last-name>Кин</last-name>
+				<full-name-rodit>Дея Кина</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0418d3a4-432c-102a-9588-671c5559bfb4">
+				<subject_id>57020</subject_id>
+				<url>oleg-kolesnikov/</url>
+				<first-name>Олег</first-name>
+				<middle-name>Эрнстович</middle-name>
+				<last-name>Колесников</last-name>
+				<full-name-rodit>Олега Колесникова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="132964" added="2007-04-04 17:02:19" price="24.95" cover="jpg" last_release="2007-08-14 14:58:18" on_sale="1" file_id="53830" chars="257085" type="0" file="53830" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>foreign_detective</genre>
+					<author>
+						<first-name>Дей</first-name>
+						<last-name>Кин</last-name>
+						<id>a8ade6f4-2a82-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Приди и возьми</book-title>
+					<annotation>
+						<p>Дей Кин – известный американский писатель, яркий представитель детективного жанра. Его произведения выходили в таких популярных американских изданиях, как `Черная маска`, «Детективные истории». </p>
+					</annotation>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>en</src-lang>
+					<translator>
+						<first-name>Олег</first-name>
+						<middle-name>Эрнстович</middle-name>
+						<last-name>Колесников</last-name>
+						<home-page>http://www.magister.msk.ru</home-page>
+						<id>d006448d-5a08-102a-990a-1c76fd93e5c4</id>
+					</translator>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>NickNem</nickname>
+					</author>
+					<program-used>Fiction Book Designer</program-used>
+					<date value="2006-03-20">20.03.2006</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=132964</src-url>
+					<src-url>www.LitPortal.ru</src-url>
+					<src-ocr>http://bestlibrary.org.ru</src-ocr>
+					<id>4a17d66b-4a51-11e5-87ef-0025905a06ea</id>
+					<version>1.0</version>
+					<history>
+						<p>V 1.0 Convert to FB2 NickNem</p>
+					</history>
+				</document-info>
+				<custom-info info-type="src-author-first-name">Day</custom-info>
+				<custom-info info-type="src-author-last-name">Keen</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="a8ade6f4-2a82-102a-9ae1-2dfe723fe7c7">
+				<subject_id>49963</subject_id>
+				<url>dey-kin/</url>
+				<first-name>Дей</first-name>
+				<middle-name/>
+				<last-name>Кин</last-name>
+				<full-name-rodit>Дея Кина</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0418d3a4-432c-102a-9588-671c5559bfb4">
+				<subject_id>57020</subject_id>
+				<url>oleg-kolesnikov/</url>
+				<first-name>Олег</first-name>
+				<middle-name>Эрнстович</middle-name>
+				<last-name>Колесников</last-name>
+				<full-name-rodit>Олега Колесникова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="134242" added="2007-06-25 18:52:56" price="49.00" cover="jpg" last_release="2016-07-30 05:05:10" on_sale="1" file_id="7969775" chars="42982" type="0" file="7969775" show_preview="4" allow_read="1" lvl="3">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_space</genre>
+					<genre>sf_action</genre>
+					<genre>short_story</genre>
+					<author>
+						<first-name>Алексей</first-name>
+						<middle-name>Игоревич</middle-name>
+						<last-name>Бессонов</last-name>
+						<id>d186dc52-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Мир в красном камне</book-title>
+					<annotation>
+						<p>«Когда он наконец захрапел, раскинувшись на смятой, пропитанной потом постели, тоненькая рыжеволосая девушка осторожно приподнялась. Мужчина спал, запрокинув голову, при очередном всхрапе его кадык мелко трясся. Из приоткрытого рта на подбородок текла струйка слюны. Девушка бесшумно сбросила на пол простыню и встала, совершенно кошачьим движением выпрямив стан. Беззвучно скользя узкими маленькими ступнями по мохнатому ковру, подошла к туалетному столику. Раскрыла верхний ящик, что-то достала оттуда и так же тихо вернулась в постель. Прислушалась. Мужчина продолжал спать, его мускулистая грудь, густо поросшая седыми волосами, мерно вздымалась. Убедившись, что он не проснется, девушка приподнялась, вытащила что-то из-за спины и быстрым уверенным движением прижала свою ладонь к красноватой шее мужчины. Тот захрипел, на секунду раскрыл глаза и обмяк, безвольным кулем рухнув на пол…»</p>
+					</annotation>
+					<keywords>далёкое будущее</keywords>
+					<date value="1997-01-01">1997</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Мир Алекса Королева">
+						<sequence number="3" name="Алекс Королев"/>
+					</sequence>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Consul</first-name>
+						<last-name/>
+						<email>fictionbook@gmail.com</email>
+					</author>
+					<program-used>doc2fb, FB Writer v1.1, FictionBook Editor Release 2.6.6</program-used>
+					<date value="2007-09-07">2007-09-06</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=134242</src-url>
+					<id>0d8648fa-9fc7-4c05-be46-a15c62ba85bb</id>
+				</document-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="2440"/>
+		<arts_relations/>
+		<authors>
+			<author id="d186dc52-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44440</subject_id>
+				<url>aleksey-bessonov/</url>
+				<first-name>Алексей</first-name>
+				<middle-name>Игоревич</middle-name>
+				<last-name>Бессонов</last-name>
+				<full-name-rodit>Алексея Бессонова</full-name-rodit>
+				<lvl>3</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119056" added="2007-07-25 19:28:33" price="164.00" cover="jpg" last_release="2017-04-27 13:28:04" on_sale="1" file_id="27849025" chars="656770" type="0" file="27849025" show_preview="4" allow_read="0" lvl="5">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>vampire_book</genre>
+					<genre>humor_fantasy</genre>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Ольга</first-name>
+						<middle-name>Николаевна</middle-name>
+						<last-name>Громыко</last-name>
+						<id>e53fa469-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Верховная Ведьма</book-title>
+					<annotation>
+						<p>Что нужно для счастья Верховной Ведьме самой обычной долины, населенной самыми обычными вампирами? Любимая работа? Успешная карьера? Степень архимага? Или… Друзья бессильны дать верный ответ, зато враги живо помогут во всем разобраться! Итак, черная кобыла оседлана, волшебный меч заточен – и Вольха Редная снова отправляется портить настроение нежити, а заодно конкурентам, рыцарям и даже святым…</p>
+					</annotation>
+					<keywords>героическое фэнтези,становление героя</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Белорийский цикл" number="3"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>MCat78</nickname>
+					</author>
+					<program-used>FictionBook Editor Beta 2.4, AlReader2</program-used>
+					<date value="2010-05-28">28 May 2010</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119056</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>fdc7f99d-e2a0-4e77-a747-4122a78f828e</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – создание fb2, вычитка – (MCat78)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Верховная Ведьма</book-name>
+					<publisher>Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2010</year>
+					<isbn>978-5-9922-1030-9</isbn>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="201900"/>
+		<arts_relations>
+			<art_relation rel_art="8485896" relation="8"/>
+			<art_relation rel_art="26931053" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="e53fa469-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44701</subject_id>
+				<url>olga-gromyko/</url>
+				<first-name>Ольга</first-name>
+				<middle-name>Николаевна</middle-name>
+				<last-name>Громыко</last-name>
+				<full-name-rodit>Ольги Громыко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119057" added="2007-07-25 19:28:33" price="164.00" cover="jpg" last_release="2017-04-27 22:17:21" on_sale="1" file_id="27856175" chars="729920" type="0" file="27856175" show_preview="4" allow_read="0" lvl="5">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>vampire_book</genre>
+					<genre>humor_fantasy</genre>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Ольга</first-name>
+						<middle-name>Николаевна</middle-name>
+						<last-name>Громыко</last-name>
+						<id>e53fa469-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Профессия: ведьма</book-title>
+					<annotation>
+						<p>Каждый здравомыслящий человек твердо знает: вампиров не бывает, вампиры очень любят человеческую кровь, вампиры боятся чеснока, осины и солнечного света. Интересно, а что думают на этот счет сами вампиры? Ох они бы и порассказали, найдись достаточно беспристрастный и храбрый слушатель! Перед вами – подробный отчет на основе личных наблюдений, составленный неунывающей адепткой Старминской Школы Магов, Пифий и Травниц. Но не удалось ли вампирам ввести в заблуждение и ее?..</p>
+					</annotation>
+					<keywords>ведьмы,героическое фэнтези,становление героя,«меч без имени»,волшебные миры</keywords>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Белорийский цикл" number="1"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>MCat78</nickname>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.7</program-used>
+					<date value="2009-02-23">23 February 2009</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119057</src-url>
+					<id>ca2d87b7-03b5-4baa-a56d-29c9c2fa223b</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – MCat78 – создание fb2-документа</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Профессия: ведьма</book-name>
+					<publisher>Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2011</year>
+					<isbn>978-5-9922-0953-2</isbn>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="316780"/>
+		<arts_relations>
+			<art_relation rel_art="19149731" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="e53fa469-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44701</subject_id>
+				<url>olga-gromyko/</url>
+				<first-name>Ольга</first-name>
+				<middle-name>Николаевна</middle-name>
+				<last-name>Громыко</last-name>
+				<full-name-rodit>Ольги Громыко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119058" added="2007-07-25 19:28:33" price="164.00" cover="jpg" last_release="2017-04-27 13:27:46" on_sale="1" file_id="27849017" chars="635592" type="0" file="27849017" show_preview="4" allow_read="0" lvl="5">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>vampire_book</genre>
+					<genre>humor_fantasy</genre>
+					<genre>magician_book</genre>
+					<author>
+						<first-name>Ольга</first-name>
+						<middle-name>Николаевна</middle-name>
+						<last-name>Громыко</last-name>
+						<id>e53fa469-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ведьма-хранительница</book-title>
+					<annotation>
+						<p>Кто сказал «Тяжело в учении, легко в бою»? А подать его сюда, в бой! Школа Чародеев, Пифий и Травниц закончена, но проблемы молодой дипломированной ведьмы только начинаются. Школа магов окончена. Вольху Редную ждут в Догеве, стране вампиров. Но распределение предполагает, а провидение – располагает… Захотелось ей, видите ли, приключений, легендарных подвигов и разгадок великих тайн! Что ж, хлебная должность королевского мага побоку, и пожалуйста – теперь Вольхе Редной будет о чем рассказать внукам… если, конечно, удастся с честью выйти из любезно подкинутых Судьбой испытаний…</p>
+					</annotation>
+					<keywords>героическое фэнтези,становление героя</keywords>
+					<date value="2003-01-01">2003</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence number="2" name="Белорийский цикл"/>
+				</title-info>
+				<document-info>
+					<author>
+						<nickname>MCat78</nickname>
+					</author>
+					<program-used>FictionBook Editor Beta 2.4, AlReader2</program-used>
+					<date value="2010-05-28">28 May 2010</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119058</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>615d1041-4705-4742-b591-81895ece0af7</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – создание fb2, вычитка – (MCat78)</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Ведьма-хранительница</book-name>
+					<publisher>Альфа-книга</publisher>
+					<city>Москва</city>
+					<year>2011</year>
+					<isbn>978-5-9922-0087-4, 978-5-9922-1011-8</isbn>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="218270"/>
+		<arts_relations>
+			<art_relation rel_art="22095458" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="e53fa469-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44701</subject_id>
+				<url>olga-gromyko/</url>
+				<first-name>Ольга</first-name>
+				<middle-name>Николаевна</middle-name>
+				<last-name>Громыко</last-name>
+				<full-name-rodit>Ольги Громыко</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="119308" added="2007-07-25 19:28:33" price="59.90" cover="jpg" last_release="2019-12-25 18:43:07" on_sale="1" file_id="57553375" chars="781785" type="0" file="57553375" show_preview="4" allow_read="1" lvl="4">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>sf_action</genre>
+					<author>
+						<first-name>Алекс</first-name>
+						<last-name>Кош</last-name>
+						<id>ed793c80-2a80-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Если бы я был вампиром</book-title>
+					<annotation>
+						<p>Сколько случайностей может подкинуть нам жизнь? Много! А какова вероятность того, что проскользнувшая где-то в уголках сознания мысль сможет соединить незримой нитью двух существ: вампира и человека – так похожих внешне и настолько различных внутри? Что произойдет, если они поменяются местами? А вот и не угадали. Вампир, к примеру, пойдет в библиотеку или будет с утра до ночи смотреть телевизор и научится «ботать по фене», а уж что достанется человеку, ставшему на место всем ненавистного вампира в совершенно незнакомом мире… Хотя откуда мне знать? Вот <strong>если бы я был вампиром</strong>…</p>
+					</annotation>
+					<keywords>вампиры,древние расы</keywords>
+					<date value="2004-01-01">2004</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<sequence name="Вампиры" number="1"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name>MCat78</last-name>
+						<nickname>MCat78</nickname>
+						<email>MCat78@ya.ru</email>
+					</author>
+					<program-used>FB Editor v2.0, AlReader2</program-used>
+					<date value="2009-01-13">13 January 2009</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=119308</src-url>
+					<src-ocr>Текст предоставлен автором</src-ocr>
+					<id>873e2680-4c95-4fef-b18b-cfeae3a1bfa4</id>
+					<version>2.0</version>
+					<history>
+						<p>v 2.0 – MCat78 – создание fb2-документа из авторского текста</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<book-name>Если бы я был вампиром</book-name>
+					<publisher>Армада</publisher>
+					<city>Москва</city>
+					<year>2007</year>
+					<isbn>5-93556-874-8</isbn>
+					<sequence name="Фантастический боевик" number="330"/>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="9644"/>
+		<arts_relations>
+			<art_relation rel_art="64891002" relation="8"/>
+		</arts_relations>
+		<authors>
+			<author id="ed793c80-2a80-102a-9ae1-2dfe723fe7c7">
+				<subject_id>44871</subject_id>
+				<url>aleks-kosh/</url>
+				<first-name>Литагент</first-name>
+				<middle-name/>
+				<last-name>Алекс Кош</last-name>
+				<full-name-rodit>Алекса Коша</full-name-rodit>
+				<lvl>4</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="122442" added="2007-04-03 20:01:09" price="44.95" cover="jpg" last_release="2007-08-14 13:45:13" on_sale="0" file_id="53810" chars="349135" type="0" file="53810" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>foreign_detective</genre>
+					<genre>det_hard</genre>
+					<author>
+						<first-name>Росс</first-name>
+						<last-name>Макдональд</last-name>
+						<id>1e009119-2a81-102a-9ae1-2dfe723fe7c7</id>
+					</author>
+					<book-title>Ослепительный оскал</book-title>
+					<date value="1952-01-01">1952</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>en</src-lang>
+					<translator>
+						<first-name>Олег</first-name>
+						<middle-name>Эрнстович</middle-name>
+						<last-name>Колесников</last-name>
+						<home-page>http://www.magister.msk.ru</home-page>
+						<id>d006448d-5a08-102a-990a-1c76fd93e5c4</id>
+					</translator>
+					<sequence name="Лью Арчер" number="4"/>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Денис</first-name>
+						<last-name/>
+					</author>
+					<program-used>FB Tools</program-used>
+					<date value="2005-01-19">2005-01-19</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=122442</src-url>
+					<id>713ebdf3-00cf-4827-847f-f9b4a50a2709</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 OCR Денис</p>
+					</history>
+				</document-info>
+				<custom-info info-type="src-author-first-name">Ross</custom-info>
+				<custom-info info-type="src-author-last-name">McDonald</custom-info>
+				<custom-info info-type="src-book-title">The Ivory Grin</custom-info>
+				<custom-info info-type="src-sequence-name">Lew Archer – 4</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="1e009119-2a81-102a-9ae1-2dfe723fe7c7">
+				<subject_id>45560</subject_id>
+				<url>ross-makdonald/</url>
+				<first-name>Росс</first-name>
+				<middle-name/>
+				<last-name>Макдональд</last-name>
+				<full-name-rodit>Росса Макдональда</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0418d3a4-432c-102a-9588-671c5559bfb4">
+				<subject_id>57020</subject_id>
+				<url>oleg-kolesnikov/</url>
+				<first-name>Олег</first-name>
+				<middle-name>Эрнстович</middle-name>
+				<last-name>Колесников</last-name>
+				<full-name-rodit>Олега Колесникова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+		</authors>
+	</art>	
+	<art int_id="69659770" added="2023-09-26 10:40:21" price="499.00" cover="jpg" last_release="2023-09-26 10:38:02" on_sale="1" file_id="101463616" chars="387241" type="0" file="101463616" show_preview="4" allow_read="0" lvl="2">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>religion_esoterics</genre>
+					<genre>foreign_religion</genre>
+					<genre>foreign_home</genre>
+					<genre>foreign_religion</genre>
+					<genre>religion_esoterics</genre>
+					<genre>religion_esoterics</genre>
+					<author>
+						<first-name>Александр</first-name>
+						<last-name>Андрианов</last-name>
+						<id>8b2848f8-0dfa-11e6-89fb-0cc47a52085c</id>
+					</author>
+					<author>
+						<first-name>Тэд</first-name>
+						<last-name>Эндрюс</last-name>
+						<id>2987427b-38e4-11e2-a193-002590591ea6</id>
+					</author>
+					<book-title>Аура человека: Способы защиты и воздействия. Проснись!: Действуй прямо сейчас</book-title>
+					<annotation>
+						<p>
+							<emphasis>Аура человека. Способы защиты и воздействия</emphasis>
+						</p>
+						<p>По мнению автора, чтобы видеть или чувствовать ауру совсем не обязательно быть мистиком. Каждый человек способен на это. Нужно лишь признать ее существование и внимательно относиться к своим ощущениям. Благодаря простым упражнениям, приведенным в этой книге, вы научитесь считывать ауру. Это умение во многом изменит вашу жизнь, сделает ее проще и интереснее. Вы сможете безошибочно определять, как ваша аура влияет на других людей и как их энергии воздействуют на вас. Научитесь устанавливать границы и мощность ваших энергетических полей, а также определять периоды, когда важно укреплять, уравновешивать и очищать вашу ауру. Вы всегда будете знать, когда теряете энергию и в любое время сможете восстановить баланс сил, чтобы хорошо себя чувствовать эмоционально и физически.</p>
+						<empty-line/>
+						<p>
+							<emphasis>Проснись! Действуй прямо</emphasis>
+						</p>
+						<p>Эта книга – история победы: над обстоятельствами, ощущением безвыходности и собственной никчемности, ленью и вредными привычками! Александр Андрианов, автор книги, был человеком, которому не за что было уважать себя, и от этого он еще больше себя ненавидел и разрушал. Нелюбимая работа изматывала его, превращала каждый день в пытку. Семейная жизнь заставляла нервничать и раздражаться день ото дня все больше. Он не чувствовал себя нужным, реализовавшимся, успешным…</p>
+						<p>Но Александр не пал духом: он нашел в себе силы шаг за шагом изменить себя и обстоятельства – вырваться из порочного круга. Он занялся спортом, сбросил более 20 килограммов, избавился от алкогольной зависимости, отказался от сигарет и вредной еды, в корне изменил личную жизнь и устроился на ту работу, которая была ему по душе. Он не захотел мириться с тем, что потерял самоуважение, интерес к жизни. Александр убежден: если ты несчастлив – значит что-то в твоей жизни идет неправильно. И изменить это никогда не поздно!</p>
+					</annotation>
+					<keywords>самосовершенствование,искусство быть счастливым,биоэнергетика,самопомощь,работа над собой</keywords>
+					<date value="2023-01-01">2023</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+					<src-lang>en</src-lang>
+					<translator>
+						<first-name>Елена</first-name>
+						<middle-name>Э.</middle-name>
+						<last-name>Шепелева</last-name>
+						<id>0222b253-5e13-11e4-b037-0025905a0812</id>
+					</translator>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name>Олег</first-name>
+						<last-name>Власов</last-name>
+						<nickname>prussol</nickname>
+					</author>
+					<program-used>FictionBook Editor Release 2.6.7</program-used>
+					<date value="2023-09-26">26 September 2023</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=69659770</src-url>
+					<src-ocr>Текст предоставлен правообладателем</src-ocr>
+					<id>f8e74841-5323-11ee-8496-0cc47af30fe4</id>
+					<version>1.0</version>
+					<history>
+						<p>V 1.0 by prussol</p>
+					</history>
+					<publisher>
+						<first-name>Литагент</first-name>
+						<last-name>Весь</last-name>
+						<id>3b5142ba-4ef8-11e4-b715-002590591ed2</id>
+					</publisher>
+				</document-info>
+				<publish-info>
+					<book-name>Аура человека: Способы защиты и воздействия. Проснись!: Действуй прямо сейчас / Александр Андрианов, Тэд Эндрюс</book-name>
+					<publisher>Весь</publisher>
+					<city>Все права защищены. Книга или любая ее часть не может быть скопирована, воспроизведена в электронной или механической форме, в виде фотокопии, записи в память ЭВМ, репродукции или каким-либо иным способом,а также использована в любой информационной системе</city>
+					<year>2023</year>
+					<isbn>978-5-9443-0966-2</isbn>
+				</publish-info>
+				<custom-info info-type="">Все права защищены. Книга или любая ее часть не может быть скопирована, воспроизведена в электронной или механической форме, в виде фотокопии, записи в память ЭВМ, репродукции или каким-либо иным способом,а также использована в любой информационной системе без получения разрешения от издателя. Копирование, воспроизведение и иное использование книги или ее части без согласия издателя является незаконным и влечет уголовную, административную и гражданскую ответственность © Перевод на русский язык, издание на русском языке, оформление. ОАО «Издательская группа «Весь», 2023</custom-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="10"/>
+		<arts_relations/>
+		<authors>
+			<author id="2987427b-38e4-11e2-a193-002590591ea6">
+				<subject_id>3068104</subject_id>
+				<url>ted-endrus/</url>
+				<first-name>Тэд</first-name>
+				<middle-name/>
+				<last-name>Эндрюс</last-name>
+				<full-name-rodit>Тэда Эндрюса</full-name-rodit>
+				<lvl>2</lvl>
+				<relation>0</relation>
+			</author>
+			<author id="0222b253-5e13-11e4-b037-0025905a0812">
+				<subject_id>4613117</subject_id>
+				<url>e-e-shepeleva/</url>
+				<first-name>Елена</first-name>
+				<middle-name>Э.</middle-name>
+				<last-name>Шепелева</last-name>
+				<full-name-rodit>Елены Шепелевой</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>1</relation>
+			</author>
+			<author id="8b2848f8-0dfa-11e6-89fb-0cc47a52085c">
+				<subject_id>8721766</subject_id>
+				<url>aleksandr-andrianov-8721766/</url>
+				<first-name>Александр</first-name>
+				<middle-name/>
+				<last-name>Андрианов</last-name>
+				<full-name-rodit>Александра Андрианова</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751146" added="2023-09-26 10:41:15" price="79.99" cover="jpg" last_release="2023-09-26 10:41:07" on_sale="1" file_id="101463808" chars="531" type="23" file="101463808" show_preview="4" allow_read="0" lvl="3">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69692383" relation="6"/>
+			<art_relation rel_art="69692383" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="2ba40eb3-2495-11ee-8496-0cc47af30fe4">
+				<subject_id>32650489</subject_id>
+				<url>yaroslav-zolotarev-32650489/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ярослав Золотарев</last-name>
+				<full-name-rodit>Ярослава Золотарева</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751147" added="2023-09-26 10:42:46" price="79.99" cover="jpg" last_release="2023-09-26 10:42:36" on_sale="1" file_id="101463826" chars="220" type="23" file="101463826" show_preview="4" allow_read="0" lvl="3">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69692383" relation="6"/>
+			<art_relation rel_art="69692383" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="2ba40eb3-2495-11ee-8496-0cc47af30fe4">
+				<subject_id>32650489</subject_id>
+				<url>yaroslav-zolotarev-32650489/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ярослав Золотарев</last-name>
+				<full-name-rodit>Ярослава Золотарева</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751149" added="2023-09-26 10:44:22" price="79.99" cover="jpg" last_release="2023-09-26 10:44:11" on_sale="1" file_id="101463832" chars="422" type="23" file="101463832" show_preview="4" allow_read="0" lvl="3">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69692383" relation="6"/>
+			<art_relation rel_art="69692383" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="2ba40eb3-2495-11ee-8496-0cc47af30fe4">
+				<subject_id>32650489</subject_id>
+				<url>yaroslav-zolotarev-32650489/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ярослав Золотарев</last-name>
+				<full-name-rodit>Ярослава Золотарева</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751150" added="2023-09-26 10:45:45" price="79.99" cover="jpg" last_release="2023-09-26 10:45:37" on_sale="1" file_id="101463847" chars="656" type="23" file="101463847" show_preview="4" allow_read="0" lvl="3">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69692383" relation="6"/>
+			<art_relation rel_art="69692383" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="2ba40eb3-2495-11ee-8496-0cc47af30fe4">
+				<subject_id>32650489</subject_id>
+				<url>yaroslav-zolotarev-32650489/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ярослав Золотарев</last-name>
+				<full-name-rodit>Ярослава Золотарева</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751152" added="2023-09-26 10:47:26" price="79.99" cover="jpg" last_release="2023-09-26 10:47:16" on_sale="1" file_id="101463856" chars="713" type="23" file="101463856" show_preview="4" allow_read="0" lvl="3">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69692383" relation="6"/>
+			<art_relation rel_art="69692383" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="2ba40eb3-2495-11ee-8496-0cc47af30fe4">
+				<subject_id>32650489</subject_id>
+				<url>yaroslav-zolotarev-32650489/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ярослав Золотарев</last-name>
+				<full-name-rodit>Ярослава Золотарева</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69751155" added="2023-09-26 10:49:24" price="0.90" cover="jpg" last_release="2023-09-26 10:49:12" on_sale="1" file_id="101463895" chars="1934" type="23" file="101463895" show_preview="4" allow_read="0" lvl="1">
+		<year_rating quantity="10"/>
+		<arts_relations>
+			<art_relation rel_art="69660019" relation="6"/>
+			<art_relation rel_art="69660019" relation="5"/>
+		</arts_relations>
+		<authors>
+			<author id="f2a4c0f9-4e44-11ee-8496-0cc47af30fe4">
+				<subject_id>32707774</subject_id>
+				<url>ariel-goodbody-glassbox-media-32707774/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ariel Goodbody &amp; Glassbox Media</last-name>
+				<full-name-rodit/>
+				<lvl>1</lvl>
+				<relation>26</relation>
+				<exid>69660019</exid>
+			</author>
+			<author id="5809941e-532b-11ee-8496-0cc47af30fe4">
+				<subject_id>32720761</subject_id>
+				<url>ariel-goodbody-glassbox-media/</url>
+				<first-name/>
+				<middle-name/>
+				<last-name>Ariel Goodbody &amp; Glassbox Media</last-name>
+				<full-name-rodit/>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>
+	<art int_id="69583765" added="2023-09-26 10:50:13" price="499.00" cover="jpg" last_release="2023-08-31 13:03:53" on_sale="1" file_id="100852576" chars="116165" type="0" file="100852576" show_preview="4" allow_read="1" lvl="1">
+		<text_description>
+			<hidden>
+				<title-info>
+					<genre>russian_contemporary</genre>
+					<genre>nonf_biography</genre>
+					<author>
+						<first-name>Вера</first-name>
+						<middle-name>Алексеевна</middle-name>
+						<last-name>Комарова</last-name>
+						<home-page>https://vkomarova.ru</home-page>
+						<id>60ceeee5-08e0-11ee-8496-0cc47af30fe4</id>
+					</author>
+					<book-title>Упасть вверх</book-title>
+					<annotation>
+						<p>Вера Комарова – поэтесса, писательница, магистр психологии.</p>
+						<p>Член Ассоциации психоаналитического коучинга и бизнес-консультирования России АПКБК.</p>
+						<p>Автор русских народных сказок, отрисованных в китайской технике Маньхуа.</p>
+						<p>Жизнь подобна чистому холсту, где каждый окрашивает его своими яркими красками.</p>
+						<p>В данной книге представлены 10 разных историй, в которых описаны реальные судьбы непохожих друг на друга людей.</p>
+						<p>Разочарование в любви и очарование жизни, вера в себя и раскрытие своего истинного предназначения – это лишь малая часть того, что переживают герои историй.</p>
+						<p>Свободная форма письма позволит отвлечься от дел и набраться легкости с нотками философии. А главное, каждый читатель может сам «докрасить»-дописать конец каждой истории в виртуальном пространстве благодаря уникальному QR-коду, расположенному в конце каждой истории!</p>
+						<p>Добро пожаловать в новый, удивительный мир книги под названием «Упасть вверх»!</p>
+					</annotation>
+					<keywords>женская проза,женские истории,житейские истории,истории о любви,в поисках счастья,сентиментальная проза</keywords>
+					<date value="2023-01-01">2023</date>
+					<coverpage>
+						<image href="#cover.jpg"/>
+					</coverpage>
+					<lang>ru</lang>
+				</title-info>
+				<document-info>
+					<author>
+						<first-name/>
+						<last-name/>
+					</author>
+					<program-used>OOoFBTools-2.56 (ExportToFB21), FictionBook Editor Release 2.6.6</program-used>
+					<date value="2023-08-29">29.08.2023</date>
+					<src-url>http://www.litres.ru/pages/biblio_book/?art=69583765</src-url>
+					<id>9e9325a7-4696-11ee-8496-0cc47af30fe4</id>
+					<version>1.0</version>
+					<history>
+						<p>v 1.0 – создание fb2 – AlenaCh</p>
+					</history>
+				</document-info>
+				<publish-info>
+					<isbn>978-5-600-03717-5</isbn>
+				</publish-info>
+			</hidden>
+		</text_description>
+		<year_rating quantity="230.708"/>
+		<arts_relations/>
+		<authors>
+			<author id="60ceeee5-08e0-11ee-8496-0cc47af30fe4">
+				<subject_id>32610691</subject_id>
+				<url>vera-komarova-32610691/</url>
+				<first-name>Вера</first-name>
+				<middle-name>Алексеевна</middle-name>
+				<last-name>Комарова</last-name>
+				<full-name-rodit>Веры Комаровой</full-name-rodit>
+				<lvl>1</lvl>
+				<relation>0</relation>
+			</author>
+		</authors>
+	</art>	
+</litres-updates>
